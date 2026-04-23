@@ -1,0 +1,46 @@
+version: '3.9'
+
+services:
+
+  db:
+    image: postgres:15
+    container_name: avito_db
+    restart: always
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  app:
+    build: .
+    container_name: avito_pipeline
+    depends_on:
+      - db
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: python main.py
+    environment:
+      DB_HOST: ${DB_HOST}
+      DB_NAME: ${DB_NAME}
+      DB_USER: ${DB_USER}
+      DB_PASSWORD: ${DB_PASSWORD}
+
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: avito_pgadmin
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: ${PGADMIN_EMAIL}
+      PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_PASSWORD}
+    ports:
+      - "5052:80"
+    depends_on:
+      - db
+
+volumes:
+  postgres_data:
