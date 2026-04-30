@@ -1,0 +1,89 @@
+version: "3.9"
+
+services:
+
+  # ======================
+  # POSTGRES
+  # ======================
+  postgres:
+    image: postgres:15
+    container_name: postgres_dw
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1234
+      POSTGRES_DB: real_estate_dw
+    ports:
+      - "5434:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  # ======================
+  # PGADMIN
+  # ======================
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: pgadmin4
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: 1234
+    ports:
+      - "5050:80"
+    depends_on:
+      - postgres
+
+  # ======================
+  # SCRAPING
+  # ======================
+  scraping:
+    build: ./extract
+    container_name: scraping_service
+    restart: on-failure
+    depends_on:
+      - postgres
+    volumes:
+      - ./logs:/app/logs
+
+  # ======================
+  # STAGING
+  # ======================
+  staging:
+    build: ./staging
+    container_name: staging_service
+    restart: on-failure
+    depends_on:
+      - scraping
+    volumes:
+      - ./logs:/app/logs
+
+  # ======================
+  # CLEAN
+  # ======================
+  clean:
+    build: ./clean
+    container_name: clean_service
+    restart: on-failure
+    depends_on:
+      - staging
+    volumes:
+      - ./logs:/app/logs
+
+  # ======================
+  # WAREHOUSE
+  # ======================
+  warehouse:
+    build: ./warehouse
+    container_name: warehouse_service
+    restart: on-failure
+    depends_on:
+      - clean
+      - postgres
+    volumes:
+      - ./logs:/app/logs
+
+# ======================
+# VOLUMES
+# ======================
+volumes:
+  postgres_data:

@@ -1,0 +1,151 @@
+2026-04-30 10:35:04,774 - INFO - \U0001f680 Script started
+2026-04-30 10:35:04,782 - INFO - Data loaded: (380, 7)
+2026-04-30 10:35:04,820 - INFO - Duplicates found: 16
+2026-04-30 10:35:04,821 - INFO - After removing duplicates: (364, 7)
+2026-04-30 10:35:04,822 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-04-30 10:35:04,827 - INFO - missing_report
+2026-04-30 10:35:04,829 - INFO - Location prefix removed successfully
+2026-04-30 10:35:04,830 - INFO - Location split into city and district
+2026-04-30 10:35:04,830 - INFO - City and district normalized (lower + strip)
+2026-04-30 10:35:04,831 - INFO - City names standardized using mapping
+2026-04-30 10:35:04,831 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-04-30 10:35:04,831 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-04-30 10:41:43,642 - INFO - \U0001f680 Script started
+2026-04-30 10:41:43,645 - INFO - Data loaded: (380, 7)
+2026-04-30 10:41:43,670 - INFO - Duplicates found: 16
+2026-04-30 10:41:43,671 - INFO - After removing duplicates: (364, 7)
+2026-04-30 10:41:43,672 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-04-30 10:41:43,676 - INFO - missing_report
+2026-04-30 10:41:43,678 - INFO - Location prefix removed successfully
+2026-04-30 10:41:43,679 - INFO - Location split into city and district
+2026-04-30 10:41:43,680 - INFO - City and district normalized (lower + strip)
+2026-04-30 10:41:43,680 - INFO - City names standardized using mapping
+2026-04-30 10:41:43,680 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-04-30 10:41:43,681 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-04-30 10:42:12,630 - INFO - Clean data saved successfully to clean_data.csv
+2026-04-30 10:44:08,226 - INFO - \U0001f680 Script started
+2026-04-30 10:44:08,229 - INFO - Data loaded: (380, 7)
+2026-04-30 10:44:08,250 - INFO - Duplicates found: 16
+2026-04-30 10:44:08,251 - INFO - After removing duplicates: (364, 7)
+2026-04-30 10:44:08,252 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-04-30 10:44:08,256 - INFO - missing_report
+2026-04-30 10:44:08,257 - INFO - Location prefix removed successfully
+2026-04-30 10:44:08,258 - INFO - Location split into city and district
+2026-04-30 10:44:08,259 - INFO - City and district normalized (lower + strip)
+2026-04-30 10:44:08,260 - INFO - City names standardized using mapping
+2026-04-30 10:44:08,260 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-04-30 10:44:08,260 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-04-30 10:45:18,088 - INFO - \U0001f680 Script started
+2026-04-30 10:45:18,090 - INFO - Data loaded: (380, 7)
+2026-04-30 10:45:18,113 - INFO - Duplicates found: 16
+2026-04-30 10:45:18,114 - INFO - After removing duplicates: (364, 7)
+2026-04-30 10:45:18,114 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-04-30 10:45:18,120 - INFO - missing_report
+2026-04-30 10:45:18,121 - INFO - Location prefix removed successfully
+2026-04-30 10:45:18,122 - INFO - Location split into city and district
+2026-04-30 10:45:18,123 - INFO - City and district normalized (lower + strip)
+2026-04-30 10:45:18,123 - INFO - City names standardized using mapping
+2026-04-30 10:45:18,123 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-04-30 10:45:18,123 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-04-30 10:45:29,061 - INFO - Clean data saved successfully to clean_data.csv
+2026-04-30 10:49:40,131 - INFO - \U0001f680 Script started
+2026-04-30 10:49:40,134 - INFO - Data loaded: (380, 7)
+2026-04-30 10:49:40,156 - INFO - Duplicates found: 16
+2026-04-30 10:49:40,157 - INFO - After removing duplicates: (364, 7)
+2026-04-30 10:49:40,157 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-04-30 10:49:40,161 - INFO - missing_report
+2026-04-30 10:49:40,162 - INFO - Location prefix removed successfully
+2026-04-30 10:49:40,163 - INFO - Location split into city and district
+2026-04-30 10:49:40,164 - INFO - City and district normalized (lower + strip)
+2026-04-30 10:49:40,164 - INFO - City names standardized using mapping
+2026-04-30 10:49:40,164 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-04-30 10:49:40,166 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-04-30 10:49:45,317 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-04-30 10:49:45,317 - INFO - Outliers bounds \u2192 lower: -928000.0, upper: 3280000.0
+2026-04-30 10:49:45,317 - INFO - Outliers count: 28
+2026-04-30 10:49:45,318 - INFO - Outliers ratio: 7.69%
+2026-04-30 10:49:45,321 - INFO - Capping applied on price column
+2026-04-30 10:49:45,321 - INFO - Original max price: 7680000
+2026-04-30 10:49:45,321 - INFO - Capped max price: 3280000
+2026-04-30 10:49:45,321 - INFO - Original min price: 190000
+2026-04-30 10:49:45,322 - INFO - Capped min price: 190000
+2026-04-30 10:49:45,322 - INFO - Price mean (before): 1417962.3626373627
+2026-04-30 10:49:45,323 - INFO - Price median (before): 1100000.0
+2026-04-30 10:49:45,323 - INFO - Price mean (after): 1338083.2417582418
+2026-04-30 10:49:45,323 - INFO - Price median (after): 1100000.0
+2026-04-30 10:49:46,629 - INFO - Clean data saved successfully to clean_data.csv
