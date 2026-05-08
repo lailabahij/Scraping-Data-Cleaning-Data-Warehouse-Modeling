@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.csv
+*.xlsx
+data/
+notebooks/
+.git/
+.DS_Store
