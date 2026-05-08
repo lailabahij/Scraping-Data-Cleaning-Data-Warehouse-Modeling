@@ -1,18 +1,25 @@
-# ======================
-# SCRAPING SERVICE
-# ======================
 FROM python:3.10
 
 WORKDIR /app
 
-# copy files
+# 1. copy requirements 
+COPY requirements.txt .
+
+# 2. install dependencies 
+RUN pip install --no-cache-dir -r requirements.txt
+
+# 3. copy 
 COPY . .
 
-# install dependencies (إلا عندك requirements.txt)
-RUN pip install --no-cache-dir -r requirements.txt || true
-
-# create logs folder
+# 4. logs folder
 RUN mkdir -p /app/logs
 
-# run scraping script
 CMD ["python", "scraper.py"]
+RUN apt-get update && apt-get install -y \
+    wget \
+    unzip \
+    curl \
+    gnupg \
+    chromium \
+    chromium-driver \
+    && rm -rf /var/lib/apt/lists/*

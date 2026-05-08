@@ -5,7 +5,7 @@ import os
 import logging
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-
+from selenium.webdriver.chrome.options import Options
 
 # -----------------------
 # PATH CONFIG
@@ -34,9 +34,14 @@ logging.info("🚀 Scraping script started")
 # INIT DRIVER
 # -----------------------
 def init_driver():
-    driver = webdriver.Chrome()
+    options = Options()
+    options.add_argument("--headless")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+
+    driver = webdriver.Chrome(options=options)
     driver.get("https://www.avito.ma/fr/maroc/appartements-%C3%A0_vendre?bathrooms=1&rooms=1&has_price=true&price=100000-&size=10-")
-    logging.info("🌐 Chrome opened Avito page")
+
     return driver
 
 

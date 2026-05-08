@@ -1,5 +1,3 @@
-version: "3.9"
-
 services:
 
   # ======================
@@ -12,7 +10,7 @@ services:
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: 1234
-      POSTGRES_DB: real_estate_dw
+      POSTGRES_DB: scraping_db
     ports:
       - "5434:5432"
     volumes:
@@ -39,11 +37,21 @@ services:
   scraping:
     build: ./extract
     container_name: scraping_service
-    restart: on-failure
+    command: python scraper.py
+    restart: "no"
+
     depends_on:
-      - postgres
+      postgres:
+        condition: service_started
+
+    env_file:
+      - .env
+
     volumes:
       - ./logs:/app/logs
+      - ./data:/app/data
+      - ./staging:/app/staging
+      
 
   # ======================
   # STAGING
@@ -54,8 +62,12 @@ services:
     restart: on-failure
     depends_on:
       - scraping
+    env_file:
+      - .env
     volumes:
       - ./logs:/app/logs
+      - ./data:/app/data
+      - ./staging:/app/staging
 
   # ======================
   # CLEAN
@@ -66,22 +78,30 @@ services:
     restart: on-failure
     depends_on:
       - staging
+    env_file:
+      - .env
     volumes:
       - ./logs:/app/logs
-
+      - ./data:/app/data
+      - ./staging:/app/staging
   # ======================
   # WAREHOUSE
   # ======================
   warehouse:
-    build: ./warehouse
+    build:
+      context: .
+      dockerfile: warehouse/Dockerfile
     container_name: warehouse_service
     restart: on-failure
     depends_on:
       - clean
       - postgres
+    env_file:
+      - .env
     volumes:
       - ./logs:/app/logs
-
+      - ./data:/app/data
+      - ./staging:/app/staging
 # ======================
 # VOLUMES
 # ======================

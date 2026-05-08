@@ -105,7 +105,7 @@ logging.info("Final cleaning done")
 # -----------------------------
 # 11. SAVE RESULT (optional)
 # -----------------------------
-df.to_csv("../processed/features_data.csv", index=False)
+df.to_csv("../staging/features_data.csv", index=False)
 
 logging.info("File saved: features_data.csv")
 

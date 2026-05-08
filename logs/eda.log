@@ -149,3 +149,2471 @@ Length: 10, dtype: string
 2026-04-30 10:49:45,323 - INFO - Price mean (after): 1338083.2417582418
 2026-04-30 10:49:45,323 - INFO - Price median (after): 1100000.0
 2026-04-30 10:49:46,629 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-06 10:29:31,116 - INFO - 🚀 Script started
+2026-05-06 10:29:32,145 - INFO - 🚀 Script started
+2026-05-06 10:29:33,168 - INFO - 🚀 Script started
+2026-05-06 10:29:34,355 - INFO - 🚀 Script started
+2026-05-06 10:29:36,063 - INFO - 🚀 Script started
+2026-05-06 10:29:38,611 - INFO - 🚀 Script started
+2026-05-06 10:29:42,781 - INFO - 🚀 Script started
+2026-05-06 10:29:47,444 - INFO - 🚀 Script started
+2026-05-06 10:30:01,068 - INFO - 🚀 Script started
+2026-05-06 10:30:24,898 - INFO - 🚀 Script started
+2026-05-06 10:31:11,578 - INFO - 🚀 Script started
+2026-05-06 10:32:07,112 - INFO - 🚀 Script started
+2026-05-06 10:33:02,704 - INFO - 🚀 Script started
+2026-05-06 10:33:58,201 - INFO - 🚀 Script started
+2026-05-06 10:34:53,726 - INFO - 🚀 Script started
+2026-05-06 10:35:49,355 - INFO - 🚀 Script started
+2026-05-06 10:36:44,849 - INFO - 🚀 Script started
+2026-05-06 10:37:40,254 - INFO - 🚀 Script started
+2026-05-06 10:38:35,647 - INFO - 🚀 Script started
+2026-05-06 10:39:31,184 - INFO - 🚀 Script started
+2026-05-06 10:41:05,421 - INFO - 🚀 Script started
+2026-05-06 10:41:06,508 - INFO - 🚀 Script started
+2026-05-06 10:41:07,687 - INFO - 🚀 Script started
+2026-05-06 10:41:09,118 - INFO - 🚀 Script started
+2026-05-06 10:41:10,843 - INFO - 🚀 Script started
+2026-05-06 10:41:10,649 - INFO - 🚀 Script started
+2026-05-06 10:41:14,765 - INFO - 🚀 Script started
+2026-05-06 10:41:21,883 - INFO - 🚀 Script started
+2026-05-06 10:41:35,600 - INFO - 🚀 Script started
+2026-05-06 10:41:59,306 - INFO - 🚀 Script started
+2026-05-06 10:42:45,991 - INFO - 🚀 Script started
+2026-05-06 10:43:41,369 - INFO - 🚀 Script started
+2026-05-06 10:44:36,749 - INFO - 🚀 Script started
+2026-05-06 11:27:36,832 - INFO - 🚀 Script started
+2026-05-06 11:27:38,046 - INFO - 🚀 Script started
+2026-05-06 11:27:39,337 - INFO - 🚀 Script started
+2026-05-06 11:27:40,787 - INFO - 🚀 Script started
+2026-05-06 11:27:42,474 - INFO - 🚀 Script started
+2026-05-06 11:27:44,883 - INFO - 🚀 Script started
+2026-05-06 11:27:48,988 - INFO - 🚀 Script started
+2026-05-06 11:27:56,196 - INFO - 🚀 Script started
+2026-05-06 11:28:07,150 - INFO - 🚀 Script started
+2026-05-06 11:28:30,839 - INFO - 🚀 Script started
+2026-05-06 11:29:20,054 - INFO - 🚀 Script started
+2026-05-06 11:30:15,252 - INFO - 🚀 Script started
+2026-05-06 11:31:10,392 - INFO - 🚀 Script started
+2026-05-06 11:32:05,762 - INFO - 🚀 Script started
+2026-05-06 11:33:01,081 - INFO - 🚀 Script started
+2026-05-06 11:33:56,385 - INFO - 🚀 Script started
+2026-05-06 11:34:51,629 - INFO - 🚀 Script started
+2026-05-06 11:35:46,860 - INFO - 🚀 Script started
+2026-05-06 11:36:42,068 - INFO - 🚀 Script started
+2026-05-06 11:37:37,525 - INFO - 🚀 Script started
+2026-05-06 11:38:30,190 - INFO - 🚀 Script started
+2026-05-06 11:39:25,653 - INFO - 🚀 Script started
+2026-05-06 11:40:20,987 - INFO - 🚀 Script started
+2026-05-06 11:41:16,241 - INFO - 🚀 Script started
+2026-05-06 11:42:11,659 - INFO - 🚀 Script started
+2026-05-06 11:43:06,900 - INFO - 🚀 Script started
+2026-05-06 11:44:02,224 - INFO - 🚀 Script started
+2026-05-06 11:44:57,474 - INFO - 🚀 Script started
+2026-05-06 11:45:52,770 - INFO - 🚀 Script started
+2026-05-06 11:46:48,049 - INFO - 🚀 Script started
+2026-05-06 11:47:43,342 - INFO - 🚀 Script started
+2026-05-06 11:48:38,655 - INFO - 🚀 Script started
+2026-05-06 11:49:33,976 - INFO - 🚀 Script started
+2026-05-06 11:50:29,355 - INFO - 🚀 Script started
+2026-05-06 11:51:24,685 - INFO - 🚀 Script started
+2026-05-06 11:52:20,058 - INFO - 🚀 Script started
+2026-05-06 11:53:15,329 - INFO - 🚀 Script started
+2026-05-06 11:54:10,554 - INFO - 🚀 Script started
+2026-05-06 11:55:05,814 - INFO - 🚀 Script started
+2026-05-06 11:56:01,220 - INFO - 🚀 Script started
+2026-05-06 11:56:56,459 - INFO - 🚀 Script started
+2026-05-06 11:57:51,804 - INFO - 🚀 Script started
+2026-05-06 11:58:47,064 - INFO - 🚀 Script started
+2026-05-06 11:59:42,371 - INFO - 🚀 Script started
+2026-05-06 12:00:37,709 - INFO - 🚀 Script started
+2026-05-06 12:01:33,202 - INFO - 🚀 Script started
+2026-05-06 12:02:28,572 - INFO - 🚀 Script started
+2026-05-06 12:03:23,903 - INFO - 🚀 Script started
+2026-05-06 12:04:19,278 - INFO - 🚀 Script started
+2026-05-06 12:05:14,500 - INFO - 🚀 Script started
+2026-05-06 12:06:09,781 - INFO - 🚀 Script started
+2026-05-06 12:07:05,022 - INFO - 🚀 Script started
+2026-05-06 13:03:23,608 - INFO - 🚀 Script started
+2026-05-06 13:04:19,979 - INFO - 🚀 Script started
+2026-05-06 13:05:15,585 - INFO - 🚀 Script started
+2026-05-06 13:05:51,671 - INFO - 🚀 Script started
+2026-05-06 13:05:52,896 - INFO - 🚀 Script started
+2026-05-06 13:05:54,100 - INFO - 🚀 Script started
+2026-05-06 13:05:55,594 - INFO - 🚀 Script started
+2026-05-06 13:05:57,137 - INFO - 🚀 Script started
+2026-05-06 13:05:59,598 - INFO - 🚀 Script started
+2026-05-06 13:06:03,598 - INFO - 🚀 Script started
+2026-05-06 13:06:10,789 - INFO - 🚀 Script started
+2026-05-06 13:06:21,737 - INFO - 🚀 Script started
+2026-05-06 13:06:45,679 - INFO - 🚀 Script started
+2026-05-06 13:07:34,963 - INFO - 🚀 Script started
+2026-05-06 13:08:30,563 - INFO - 🚀 Script started
+2026-05-06 13:09:25,944 - INFO - 🚀 Script started
+2026-05-06 13:10:18,615 - INFO - 🚀 Script started
+2026-05-06 13:11:13,975 - INFO - 🚀 Script started
+2026-05-06 13:12:09,375 - INFO - 🚀 Script started
+2026-05-06 13:13:04,581 - INFO - 🚀 Script started
+2026-05-06 13:13:59,887 - INFO - 🚀 Script started
+2026-05-06 13:14:55,241 - INFO - 🚀 Script started
+2026-05-06 13:15:50,666 - INFO - 🚀 Script started
+2026-05-06 13:16:46,956 - INFO - 🚀 Script started
+2026-05-06 13:17:42,639 - INFO - 🚀 Script started
+2026-05-06 13:18:38,286 - INFO - 🚀 Script started
+2026-05-06 13:19:33,958 - INFO - 🚀 Script started
+2026-05-06 13:20:29,774 - INFO - 🚀 Script started
+2026-05-06 13:21:25,452 - INFO - 🚀 Script started
+2026-05-06 13:22:21,059 - INFO - 🚀 Script started
+2026-05-06 13:23:16,640 - INFO - 🚀 Script started
+2026-05-06 13:24:12,239 - INFO - 🚀 Script started
+2026-05-06 13:25:07,879 - INFO - 🚀 Script started
+2026-05-06 13:26:03,449 - INFO - 🚀 Script started
+2026-05-06 13:26:58,999 - INFO - 🚀 Script started
+2026-05-06 13:27:54,510 - INFO - 🚀 Script started
+2026-05-06 13:28:50,106 - INFO - 🚀 Script started
+2026-05-06 13:29:45,734 - INFO - 🚀 Script started
+2026-05-06 13:30:41,281 - INFO - 🚀 Script started
+2026-05-06 13:31:36,922 - INFO - 🚀 Script started
+2026-05-06 13:32:32,450 - INFO - 🚀 Script started
+2026-05-06 13:33:28,047 - INFO - 🚀 Script started
+2026-05-06 13:34:23,700 - INFO - 🚀 Script started
+2026-05-06 13:35:19,314 - INFO - 🚀 Script started
+2026-05-06 13:36:14,902 - INFO - 🚀 Script started
+2026-05-06 13:37:01,456 - INFO - 🚀 Script started
+2026-05-06 13:37:02,733 - INFO - 🚀 Script started
+2026-05-06 13:37:03,755 - INFO - 🚀 Script started
+2026-05-06 13:37:05,020 - INFO - 🚀 Script started
+2026-05-06 13:37:06,624 - INFO - 🚀 Script started
+2026-05-06 13:37:09,117 - INFO - 🚀 Script started
+2026-05-06 13:37:10,449 - INFO - 🚀 Script started
+2026-05-06 13:37:17,623 - INFO - 🚀 Script started
+2026-05-06 13:37:31,153 - INFO - 🚀 Script started
+2026-05-06 13:37:54,799 - INFO - 🚀 Script started
+2026-05-06 13:38:41,228 - INFO - 🚀 Script started
+2026-05-06 13:39:36,449 - INFO - 🚀 Script started
+2026-05-06 13:40:31,635 - INFO - 🚀 Script started
+2026-05-06 13:41:26,875 - INFO - 🚀 Script started
+2026-05-06 13:42:22,092 - INFO - 🚀 Script started
+2026-05-06 13:43:17,249 - INFO - 🚀 Script started
+2026-05-06 13:44:12,617 - INFO - 🚀 Script started
+2026-05-06 13:45:07,870 - INFO - 🚀 Script started
+2026-05-06 13:46:03,103 - INFO - 🚀 Script started
+2026-05-06 13:46:58,343 - INFO - 🚀 Script started
+2026-05-06 13:47:39,329 - INFO - 🚀 Script started
+2026-05-06 13:47:39,341 - INFO - Data loaded: (380, 7)
+2026-05-06 13:47:39,372 - INFO - Duplicates found: 16
+2026-05-06 13:47:39,374 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:47:39,375 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:47:39,381 - INFO - missing_report
+2026-05-06 13:47:39,382 - INFO - Location prefix removed successfully
+2026-05-06 13:47:39,384 - INFO - Location split into city and district
+2026-05-06 13:47:39,385 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:47:39,386 - INFO - City names standardized using mapping
+2026-05-06 13:47:39,386 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:47:39,387 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:47:39,402 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:47:39,403 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:47:39,403 - INFO - Outliers count: 28
+2026-05-06 13:47:39,404 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:47:39,406 - INFO - Capping applied on price column
+2026-05-06 13:47:39,406 - INFO - Original max price: 7680000
+2026-05-06 13:47:39,406 - INFO - Capped max price: 3280000
+2026-05-06 13:47:39,406 - INFO - Original min price: 190000
+2026-05-06 13:47:39,407 - INFO - Capped min price: 190000
+2026-05-06 13:47:39,407 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:47:39,407 - INFO - Price median (before): 1100000.0
+2026-05-06 13:47:39,408 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:47:39,408 - INFO - Price median (after): 1100000.0
+2026-05-06 13:47:40,712 - INFO - 🚀 Script started
+2026-05-06 13:47:40,719 - INFO - Data loaded: (380, 7)
+2026-05-06 13:47:40,741 - INFO - Duplicates found: 16
+2026-05-06 13:47:40,743 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:47:40,744 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:47:40,750 - INFO - missing_report
+2026-05-06 13:47:40,751 - INFO - Location prefix removed successfully
+2026-05-06 13:47:40,752 - INFO - Location split into city and district
+2026-05-06 13:47:40,753 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:47:40,754 - INFO - City names standardized using mapping
+2026-05-06 13:47:40,754 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:47:40,755 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:47:40,767 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:47:40,767 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:47:40,768 - INFO - Outliers count: 28
+2026-05-06 13:47:40,768 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:47:40,769 - INFO - Capping applied on price column
+2026-05-06 13:47:40,770 - INFO - Original max price: 7680000
+2026-05-06 13:47:40,770 - INFO - Capped max price: 3280000
+2026-05-06 13:47:40,771 - INFO - Original min price: 190000
+2026-05-06 13:47:40,771 - INFO - Capped min price: 190000
+2026-05-06 13:47:40,771 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:47:40,772 - INFO - Price median (before): 1100000.0
+2026-05-06 13:47:40,772 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:47:40,772 - INFO - Price median (after): 1100000.0
+2026-05-06 13:47:41,738 - INFO - 🚀 Script started
+2026-05-06 13:47:41,746 - INFO - Data loaded: (380, 7)
+2026-05-06 13:47:41,767 - INFO - Duplicates found: 16
+2026-05-06 13:47:41,769 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:47:41,770 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:47:41,774 - INFO - missing_report
+2026-05-06 13:47:41,776 - INFO - Location prefix removed successfully
+2026-05-06 13:47:41,777 - INFO - Location split into city and district
+2026-05-06 13:47:41,779 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:47:41,780 - INFO - City names standardized using mapping
+2026-05-06 13:47:41,781 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:47:41,781 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:47:41,793 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:47:41,794 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:47:41,794 - INFO - Outliers count: 28
+2026-05-06 13:47:41,794 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:47:41,796 - INFO - Capping applied on price column
+2026-05-06 13:47:41,796 - INFO - Original max price: 7680000
+2026-05-06 13:47:41,797 - INFO - Capped max price: 3280000
+2026-05-06 13:47:41,797 - INFO - Original min price: 190000
+2026-05-06 13:47:41,797 - INFO - Capped min price: 190000
+2026-05-06 13:47:41,798 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:47:41,798 - INFO - Price median (before): 1100000.0
+2026-05-06 13:47:41,799 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:47:41,799 - INFO - Price median (after): 1100000.0
+2026-05-06 13:47:42,909 - INFO - 🚀 Script started
+2026-05-06 13:47:42,919 - INFO - Data loaded: (380, 7)
+2026-05-06 13:47:42,941 - INFO - Duplicates found: 16
+2026-05-06 13:47:42,943 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:47:42,944 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:47:42,948 - INFO - missing_report
+2026-05-06 13:47:42,950 - INFO - Location prefix removed successfully
+2026-05-06 13:47:42,951 - INFO - Location split into city and district
+2026-05-06 13:47:42,952 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:47:42,952 - INFO - City names standardized using mapping
+2026-05-06 13:47:42,953 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:47:42,953 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:47:42,965 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:47:42,966 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:47:42,966 - INFO - Outliers count: 28
+2026-05-06 13:47:42,967 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:47:42,968 - INFO - Capping applied on price column
+2026-05-06 13:47:42,969 - INFO - Original max price: 7680000
+2026-05-06 13:47:42,969 - INFO - Capped max price: 3280000
+2026-05-06 13:47:42,969 - INFO - Original min price: 190000
+2026-05-06 13:47:42,969 - INFO - Capped min price: 190000
+2026-05-06 13:47:42,969 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:47:42,970 - INFO - Price median (before): 1100000.0
+2026-05-06 13:47:42,970 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:47:42,971 - INFO - Price median (after): 1100000.0
+2026-05-06 13:47:44,587 - INFO - 🚀 Script started
+2026-05-06 13:47:44,593 - INFO - Data loaded: (380, 7)
+2026-05-06 13:47:44,611 - INFO - Duplicates found: 16
+2026-05-06 13:47:44,613 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:47:44,614 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:47:44,618 - INFO - missing_report
+2026-05-06 13:47:44,619 - INFO - Location prefix removed successfully
+2026-05-06 13:47:44,620 - INFO - Location split into city and district
+2026-05-06 13:47:44,621 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:47:44,622 - INFO - City names standardized using mapping
+2026-05-06 13:47:44,623 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:47:44,623 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:47:44,636 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:47:44,636 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:47:44,636 - INFO - Outliers count: 28
+2026-05-06 13:47:44,636 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:47:44,637 - INFO - Capping applied on price column
+2026-05-06 13:47:44,638 - INFO - Original max price: 7680000
+2026-05-06 13:47:44,638 - INFO - Capped max price: 3280000
+2026-05-06 13:47:44,639 - INFO - Original min price: 190000
+2026-05-06 13:47:44,639 - INFO - Capped min price: 190000
+2026-05-06 13:47:44,640 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:47:44,640 - INFO - Price median (before): 1100000.0
+2026-05-06 13:47:44,640 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:47:44,640 - INFO - Price median (after): 1100000.0
+2026-05-06 13:47:47,056 - INFO - 🚀 Script started
+2026-05-06 13:47:47,063 - INFO - Data loaded: (380, 7)
+2026-05-06 13:47:47,094 - INFO - Duplicates found: 16
+2026-05-06 13:47:47,096 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:47:47,097 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:47:47,103 - INFO - missing_report
+2026-05-06 13:47:47,106 - INFO - Location prefix removed successfully
+2026-05-06 13:47:47,107 - INFO - Location split into city and district
+2026-05-06 13:47:47,108 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:47:47,109 - INFO - City names standardized using mapping
+2026-05-06 13:47:47,110 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:47:47,111 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:47:47,125 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:47:47,126 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:47:47,126 - INFO - Outliers count: 28
+2026-05-06 13:47:47,127 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:47:47,128 - INFO - Capping applied on price column
+2026-05-06 13:47:47,129 - INFO - Original max price: 7680000
+2026-05-06 13:47:47,129 - INFO - Capped max price: 3280000
+2026-05-06 13:47:47,129 - INFO - Original min price: 190000
+2026-05-06 13:47:47,130 - INFO - Capped min price: 190000
+2026-05-06 13:47:47,130 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:47:47,130 - INFO - Price median (before): 1100000.0
+2026-05-06 13:47:47,131 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:47:47,131 - INFO - Price median (after): 1100000.0
+2026-05-06 13:47:51,141 - INFO - 🚀 Script started
+2026-05-06 13:47:51,148 - INFO - Data loaded: (380, 7)
+2026-05-06 13:47:51,171 - INFO - Duplicates found: 16
+2026-05-06 13:47:51,173 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:47:51,174 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:47:51,179 - INFO - missing_report
+2026-05-06 13:47:51,180 - INFO - Location prefix removed successfully
+2026-05-06 13:47:51,181 - INFO - Location split into city and district
+2026-05-06 13:47:51,183 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:47:51,183 - INFO - City names standardized using mapping
+2026-05-06 13:47:51,184 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:47:51,184 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:47:51,200 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:47:51,200 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:47:51,200 - INFO - Outliers count: 28
+2026-05-06 13:47:51,200 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:47:51,202 - INFO - Capping applied on price column
+2026-05-06 13:47:51,202 - INFO - Original max price: 7680000
+2026-05-06 13:47:51,202 - INFO - Capped max price: 3280000
+2026-05-06 13:47:51,203 - INFO - Original min price: 190000
+2026-05-06 13:47:51,203 - INFO - Capped min price: 190000
+2026-05-06 13:47:51,203 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:47:51,204 - INFO - Price median (before): 1100000.0
+2026-05-06 13:47:51,204 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:47:51,204 - INFO - Price median (after): 1100000.0
+2026-05-06 13:47:58,472 - INFO - 🚀 Script started
+2026-05-06 13:47:58,484 - INFO - Data loaded: (380, 7)
+2026-05-06 13:47:58,505 - INFO - Duplicates found: 16
+2026-05-06 13:47:58,507 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:47:58,509 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:47:58,514 - INFO - missing_report
+2026-05-06 13:47:58,516 - INFO - Location prefix removed successfully
+2026-05-06 13:47:58,517 - INFO - Location split into city and district
+2026-05-06 13:47:58,518 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:47:58,519 - INFO - City names standardized using mapping
+2026-05-06 13:47:58,520 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:47:58,522 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:47:58,534 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:47:58,535 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:47:58,536 - INFO - Outliers count: 28
+2026-05-06 13:47:58,536 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:47:58,538 - INFO - Capping applied on price column
+2026-05-06 13:47:58,539 - INFO - Original max price: 7680000
+2026-05-06 13:47:58,540 - INFO - Capped max price: 3280000
+2026-05-06 13:47:58,540 - INFO - Original min price: 190000
+2026-05-06 13:47:58,541 - INFO - Capped min price: 190000
+2026-05-06 13:47:58,541 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:47:58,542 - INFO - Price median (before): 1100000.0
+2026-05-06 13:47:58,543 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:47:58,543 - INFO - Price median (after): 1100000.0
+2026-05-06 13:48:09,322 - INFO - 🚀 Script started
+2026-05-06 13:48:09,331 - INFO - Data loaded: (380, 7)
+2026-05-06 13:48:09,357 - INFO - Duplicates found: 16
+2026-05-06 13:48:09,359 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:48:09,359 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:48:09,363 - INFO - missing_report
+2026-05-06 13:48:09,364 - INFO - Location prefix removed successfully
+2026-05-06 13:48:09,365 - INFO - Location split into city and district
+2026-05-06 13:48:09,366 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:48:09,367 - INFO - City names standardized using mapping
+2026-05-06 13:48:09,367 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:48:09,368 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:48:09,380 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:48:09,381 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:48:09,381 - INFO - Outliers count: 28
+2026-05-06 13:48:09,381 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:48:09,382 - INFO - Capping applied on price column
+2026-05-06 13:48:09,382 - INFO - Original max price: 7680000
+2026-05-06 13:48:09,382 - INFO - Capped max price: 3280000
+2026-05-06 13:48:09,383 - INFO - Original min price: 190000
+2026-05-06 13:48:09,383 - INFO - Capped min price: 190000
+2026-05-06 13:48:09,383 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:48:09,383 - INFO - Price median (before): 1100000.0
+2026-05-06 13:48:09,383 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:48:09,384 - INFO - Price median (after): 1100000.0
+2026-05-06 13:48:33,158 - INFO - 🚀 Script started
+2026-05-06 13:48:33,169 - INFO - Data loaded: (380, 7)
+2026-05-06 13:48:33,189 - INFO - Duplicates found: 16
+2026-05-06 13:48:33,191 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:48:33,192 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:48:33,196 - INFO - missing_report
+2026-05-06 13:48:33,198 - INFO - Location prefix removed successfully
+2026-05-06 13:48:33,199 - INFO - Location split into city and district
+2026-05-06 13:48:33,200 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:48:33,200 - INFO - City names standardized using mapping
+2026-05-06 13:48:33,201 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:48:33,201 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:48:33,218 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:48:33,219 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:48:33,219 - INFO - Outliers count: 28
+2026-05-06 13:48:33,220 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:48:33,221 - INFO - Capping applied on price column
+2026-05-06 13:48:33,222 - INFO - Original max price: 7680000
+2026-05-06 13:48:33,222 - INFO - Capped max price: 3280000
+2026-05-06 13:48:33,223 - INFO - Original min price: 190000
+2026-05-06 13:48:33,223 - INFO - Capped min price: 190000
+2026-05-06 13:48:33,223 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:48:33,224 - INFO - Price median (before): 1100000.0
+2026-05-06 13:48:33,224 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:48:33,224 - INFO - Price median (after): 1100000.0
+2026-05-06 13:49:22,555 - INFO - 🚀 Script started
+2026-05-06 13:49:22,565 - INFO - Data loaded: (380, 7)
+2026-05-06 13:49:22,585 - INFO - Duplicates found: 16
+2026-05-06 13:49:22,587 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:49:22,587 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:49:22,592 - INFO - missing_report
+2026-05-06 13:49:22,593 - INFO - Location prefix removed successfully
+2026-05-06 13:49:22,594 - INFO - Location split into city and district
+2026-05-06 13:49:22,595 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:49:22,596 - INFO - City names standardized using mapping
+2026-05-06 13:49:22,597 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:49:22,597 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:49:22,616 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:49:22,616 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:49:22,617 - INFO - Outliers count: 28
+2026-05-06 13:49:22,617 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:49:22,619 - INFO - Capping applied on price column
+2026-05-06 13:49:22,619 - INFO - Original max price: 7680000
+2026-05-06 13:49:22,620 - INFO - Capped max price: 3280000
+2026-05-06 13:49:22,620 - INFO - Original min price: 190000
+2026-05-06 13:49:22,620 - INFO - Capped min price: 190000
+2026-05-06 13:49:22,621 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:49:22,621 - INFO - Price median (before): 1100000.0
+2026-05-06 13:49:22,622 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:49:22,622 - INFO - Price median (after): 1100000.0
+2026-05-06 13:50:17,933 - INFO - 🚀 Script started
+2026-05-06 13:50:17,940 - INFO - Data loaded: (380, 7)
+2026-05-06 13:50:17,958 - INFO - Duplicates found: 16
+2026-05-06 13:50:17,959 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:50:17,960 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:50:17,964 - INFO - missing_report
+2026-05-06 13:50:17,965 - INFO - Location prefix removed successfully
+2026-05-06 13:50:17,966 - INFO - Location split into city and district
+2026-05-06 13:50:17,967 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:50:17,967 - INFO - City names standardized using mapping
+2026-05-06 13:50:17,968 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:50:17,968 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:50:17,979 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:50:17,979 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:50:17,979 - INFO - Outliers count: 28
+2026-05-06 13:50:17,979 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:50:17,980 - INFO - Capping applied on price column
+2026-05-06 13:50:17,981 - INFO - Original max price: 7680000
+2026-05-06 13:50:17,981 - INFO - Capped max price: 3280000
+2026-05-06 13:50:17,981 - INFO - Original min price: 190000
+2026-05-06 13:50:17,981 - INFO - Capped min price: 190000
+2026-05-06 13:50:17,981 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:50:17,982 - INFO - Price median (before): 1100000.0
+2026-05-06 13:50:17,982 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:50:17,983 - INFO - Price median (after): 1100000.0
+2026-05-06 13:51:13,321 - INFO - 🚀 Script started
+2026-05-06 13:51:13,327 - INFO - Data loaded: (380, 7)
+2026-05-06 13:51:13,345 - INFO - Duplicates found: 16
+2026-05-06 13:51:13,347 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:51:13,348 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:51:13,352 - INFO - missing_report
+2026-05-06 13:51:13,354 - INFO - Location prefix removed successfully
+2026-05-06 13:51:13,355 - INFO - Location split into city and district
+2026-05-06 13:51:13,356 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:51:13,359 - INFO - City names standardized using mapping
+2026-05-06 13:51:13,360 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:51:13,366 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:51:13,382 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:51:13,383 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:51:13,383 - INFO - Outliers count: 28
+2026-05-06 13:51:13,383 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:51:13,384 - INFO - Capping applied on price column
+2026-05-06 13:51:13,384 - INFO - Original max price: 7680000
+2026-05-06 13:51:13,385 - INFO - Capped max price: 3280000
+2026-05-06 13:51:13,385 - INFO - Original min price: 190000
+2026-05-06 13:51:13,385 - INFO - Capped min price: 190000
+2026-05-06 13:51:13,386 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:51:13,386 - INFO - Price median (before): 1100000.0
+2026-05-06 13:51:13,386 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:51:13,386 - INFO - Price median (after): 1100000.0
+2026-05-06 13:52:08,663 - INFO - 🚀 Script started
+2026-05-06 13:52:08,669 - INFO - Data loaded: (380, 7)
+2026-05-06 13:52:08,689 - INFO - Duplicates found: 16
+2026-05-06 13:52:08,691 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:52:08,692 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:52:08,696 - INFO - missing_report
+2026-05-06 13:52:08,697 - INFO - Location prefix removed successfully
+2026-05-06 13:52:08,698 - INFO - Location split into city and district
+2026-05-06 13:52:08,699 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:52:08,699 - INFO - City names standardized using mapping
+2026-05-06 13:52:08,700 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:52:08,700 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:52:08,713 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:52:08,714 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:52:08,714 - INFO - Outliers count: 28
+2026-05-06 13:52:08,714 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:52:08,715 - INFO - Capping applied on price column
+2026-05-06 13:52:08,716 - INFO - Original max price: 7680000
+2026-05-06 13:52:08,716 - INFO - Capped max price: 3280000
+2026-05-06 13:52:08,716 - INFO - Original min price: 190000
+2026-05-06 13:52:08,716 - INFO - Capped min price: 190000
+2026-05-06 13:52:08,716 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:52:08,717 - INFO - Price median (before): 1100000.0
+2026-05-06 13:52:08,717 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:52:08,717 - INFO - Price median (after): 1100000.0
+2026-05-06 13:53:03,955 - INFO - 🚀 Script started
+2026-05-06 13:53:03,963 - INFO - Data loaded: (380, 7)
+2026-05-06 13:53:03,983 - INFO - Duplicates found: 16
+2026-05-06 13:53:03,984 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:53:03,985 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:53:03,989 - INFO - missing_report
+2026-05-06 13:53:03,990 - INFO - Location prefix removed successfully
+2026-05-06 13:53:03,991 - INFO - Location split into city and district
+2026-05-06 13:53:03,993 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:53:03,993 - INFO - City names standardized using mapping
+2026-05-06 13:53:03,994 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:53:03,995 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:53:04,007 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:53:04,008 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:53:04,008 - INFO - Outliers count: 28
+2026-05-06 13:53:04,009 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:53:04,010 - INFO - Capping applied on price column
+2026-05-06 13:53:04,011 - INFO - Original max price: 7680000
+2026-05-06 13:53:04,011 - INFO - Capped max price: 3280000
+2026-05-06 13:53:04,012 - INFO - Original min price: 190000
+2026-05-06 13:53:04,012 - INFO - Capped min price: 190000
+2026-05-06 13:53:04,012 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:53:04,013 - INFO - Price median (before): 1100000.0
+2026-05-06 13:53:04,013 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:53:04,014 - INFO - Price median (after): 1100000.0
+2026-05-06 13:53:59,302 - INFO - 🚀 Script started
+2026-05-06 13:53:59,308 - INFO - Data loaded: (380, 7)
+2026-05-06 13:53:59,326 - INFO - Duplicates found: 16
+2026-05-06 13:53:59,328 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:53:59,328 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:53:59,332 - INFO - missing_report
+2026-05-06 13:53:59,334 - INFO - Location prefix removed successfully
+2026-05-06 13:53:59,335 - INFO - Location split into city and district
+2026-05-06 13:53:59,335 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:53:59,336 - INFO - City names standardized using mapping
+2026-05-06 13:53:59,336 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:53:59,337 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:53:59,349 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:53:59,349 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:53:59,350 - INFO - Outliers count: 28
+2026-05-06 13:53:59,350 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:53:59,351 - INFO - Capping applied on price column
+2026-05-06 13:53:59,351 - INFO - Original max price: 7680000
+2026-05-06 13:53:59,352 - INFO - Capped max price: 3280000
+2026-05-06 13:53:59,352 - INFO - Original min price: 190000
+2026-05-06 13:53:59,352 - INFO - Capped min price: 190000
+2026-05-06 13:53:59,352 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:53:59,353 - INFO - Price median (before): 1100000.0
+2026-05-06 13:53:59,353 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:53:59,353 - INFO - Price median (after): 1100000.0
+2026-05-06 13:54:54,605 - INFO - 🚀 Script started
+2026-05-06 13:54:54,610 - INFO - Data loaded: (380, 7)
+2026-05-06 13:54:54,628 - INFO - Duplicates found: 16
+2026-05-06 13:54:54,629 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:54:54,630 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:54:54,634 - INFO - missing_report
+2026-05-06 13:54:54,635 - INFO - Location prefix removed successfully
+2026-05-06 13:54:54,636 - INFO - Location split into city and district
+2026-05-06 13:54:54,637 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:54:54,638 - INFO - City names standardized using mapping
+2026-05-06 13:54:54,638 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:54:54,639 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:54:54,650 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:54:54,651 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:54:54,651 - INFO - Outliers count: 28
+2026-05-06 13:54:54,651 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:54:54,652 - INFO - Capping applied on price column
+2026-05-06 13:54:54,652 - INFO - Original max price: 7680000
+2026-05-06 13:54:54,653 - INFO - Capped max price: 3280000
+2026-05-06 13:54:54,653 - INFO - Original min price: 190000
+2026-05-06 13:54:54,653 - INFO - Capped min price: 190000
+2026-05-06 13:54:54,653 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:54:54,654 - INFO - Price median (before): 1100000.0
+2026-05-06 13:54:54,654 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:54:54,654 - INFO - Price median (after): 1100000.0
+2026-05-06 13:55:49,981 - INFO - 🚀 Script started
+2026-05-06 13:55:49,987 - INFO - Data loaded: (380, 7)
+2026-05-06 13:55:50,005 - INFO - Duplicates found: 16
+2026-05-06 13:55:50,006 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:55:50,006 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:55:50,010 - INFO - missing_report
+2026-05-06 13:55:50,011 - INFO - Location prefix removed successfully
+2026-05-06 13:55:50,012 - INFO - Location split into city and district
+2026-05-06 13:55:50,013 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:55:50,014 - INFO - City names standardized using mapping
+2026-05-06 13:55:50,014 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:55:50,015 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:55:50,026 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:55:50,027 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:55:50,027 - INFO - Outliers count: 28
+2026-05-06 13:55:50,027 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:55:50,028 - INFO - Capping applied on price column
+2026-05-06 13:55:50,028 - INFO - Original max price: 7680000
+2026-05-06 13:55:50,029 - INFO - Capped max price: 3280000
+2026-05-06 13:55:50,029 - INFO - Original min price: 190000
+2026-05-06 13:55:50,029 - INFO - Capped min price: 190000
+2026-05-06 13:55:50,029 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:55:50,030 - INFO - Price median (before): 1100000.0
+2026-05-06 13:55:50,030 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:55:50,030 - INFO - Price median (after): 1100000.0
+2026-05-06 13:56:42,710 - INFO - 🚀 Script started
+2026-05-06 13:56:42,717 - INFO - Data loaded: (380, 7)
+2026-05-06 13:56:42,739 - INFO - Duplicates found: 16
+2026-05-06 13:56:42,740 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:56:42,741 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:56:42,745 - INFO - missing_report
+2026-05-06 13:56:42,747 - INFO - Location prefix removed successfully
+2026-05-06 13:56:42,748 - INFO - Location split into city and district
+2026-05-06 13:56:42,749 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:56:42,749 - INFO - City names standardized using mapping
+2026-05-06 13:56:42,750 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:56:42,751 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:56:42,762 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:56:42,762 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:56:42,763 - INFO - Outliers count: 28
+2026-05-06 13:56:42,763 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:56:42,764 - INFO - Capping applied on price column
+2026-05-06 13:56:42,765 - INFO - Original max price: 7680000
+2026-05-06 13:56:42,765 - INFO - Capped max price: 3280000
+2026-05-06 13:56:42,765 - INFO - Original min price: 190000
+2026-05-06 13:56:42,765 - INFO - Capped min price: 190000
+2026-05-06 13:56:42,765 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:56:42,766 - INFO - Price median (before): 1100000.0
+2026-05-06 13:56:42,766 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:56:42,766 - INFO - Price median (after): 1100000.0
+2026-05-06 13:57:33,610 - INFO - 🚀 Script started
+2026-05-06 13:57:33,621 - INFO - Data loaded: (380, 7)
+2026-05-06 13:57:33,657 - INFO - Duplicates found: 16
+2026-05-06 13:57:33,659 - INFO - After removing duplicates: (364, 7)
+2026-05-06 13:57:33,660 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 13:57:33,666 - INFO - missing_report
+2026-05-06 13:57:33,668 - INFO - Location prefix removed successfully
+2026-05-06 13:57:33,670 - INFO - Location split into city and district
+2026-05-06 13:57:33,671 - INFO - City and district normalized (lower + strip)
+2026-05-06 13:57:33,674 - INFO - City names standardized using mapping
+2026-05-06 13:57:33,675 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 13:57:33,679 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 13:57:33,699 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 13:57:33,699 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 13:57:33,700 - INFO - Outliers count: 28
+2026-05-06 13:57:33,700 - INFO - Outliers ratio: 7.69%
+2026-05-06 13:57:33,702 - INFO - Capping applied on price column
+2026-05-06 13:57:33,702 - INFO - Original max price: 7680000
+2026-05-06 13:57:33,706 - INFO - Capped max price: 3280000
+2026-05-06 13:57:33,707 - INFO - Original min price: 190000
+2026-05-06 13:57:33,707 - INFO - Capped min price: 190000
+2026-05-06 13:57:33,708 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 13:57:33,709 - INFO - Price median (before): 1100000.0
+2026-05-06 13:57:33,709 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 13:57:33,710 - INFO - Price median (after): 1100000.0
+2026-05-06 13:57:33,728 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-06 14:04:01,297 - INFO - 🚀 Script started
+2026-05-06 14:04:01,305 - INFO - Data loaded: (380, 7)
+2026-05-06 14:04:01,330 - INFO - Duplicates found: 16
+2026-05-06 14:04:01,333 - INFO - After removing duplicates: (364, 7)
+2026-05-06 14:04:01,333 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 14:04:01,338 - INFO - missing_report
+2026-05-06 14:04:01,340 - INFO - Location prefix removed successfully
+2026-05-06 14:04:01,341 - INFO - Location split into city and district
+2026-05-06 14:04:01,342 - INFO - City and district normalized (lower + strip)
+2026-05-06 14:04:01,343 - INFO - City names standardized using mapping
+2026-05-06 14:04:01,344 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 14:04:01,345 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 14:04:01,359 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 14:04:01,360 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 14:04:01,360 - INFO - Outliers count: 28
+2026-05-06 14:04:01,361 - INFO - Outliers ratio: 7.69%
+2026-05-06 14:04:01,362 - INFO - Capping applied on price column
+2026-05-06 14:04:01,363 - INFO - Original max price: 7680000
+2026-05-06 14:04:01,363 - INFO - Capped max price: 3280000
+2026-05-06 14:04:01,364 - INFO - Original min price: 190000
+2026-05-06 14:04:01,364 - INFO - Capped min price: 190000
+2026-05-06 14:04:01,365 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 14:04:01,365 - INFO - Price median (before): 1100000.0
+2026-05-06 14:04:01,366 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 14:04:01,367 - INFO - Price median (after): 1100000.0
+2026-05-06 14:04:01,385 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-06 15:23:45,513 - INFO - 🚀 Script started
+2026-05-06 15:23:45,527 - INFO - Data loaded: (380, 7)
+2026-05-06 15:23:45,559 - INFO - Duplicates found: 16
+2026-05-06 15:23:45,565 - INFO - After removing duplicates: (364, 7)
+2026-05-06 15:23:45,566 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 15:23:45,571 - INFO - missing_report
+2026-05-06 15:23:45,573 - INFO - Location prefix removed successfully
+2026-05-06 15:23:45,574 - INFO - Location split into city and district
+2026-05-06 15:23:45,575 - INFO - City and district normalized (lower + strip)
+2026-05-06 15:23:45,576 - INFO - City names standardized using mapping
+2026-05-06 15:23:45,576 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 15:23:45,577 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 15:23:45,589 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 15:23:45,590 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 15:23:45,590 - INFO - Outliers count: 28
+2026-05-06 15:23:45,590 - INFO - Outliers ratio: 7.69%
+2026-05-06 15:23:45,592 - INFO - Capping applied on price column
+2026-05-06 15:23:45,592 - INFO - Original max price: 7680000
+2026-05-06 15:23:45,592 - INFO - Capped max price: 3280000
+2026-05-06 15:23:45,593 - INFO - Original min price: 190000
+2026-05-06 15:23:45,594 - INFO - Capped min price: 190000
+2026-05-06 15:23:45,597 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 15:23:45,603 - INFO - Price median (before): 1100000.0
+2026-05-06 15:23:45,604 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 15:23:45,604 - INFO - Price median (after): 1100000.0
+2026-05-06 15:23:45,629 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-06 15:36:55,806 - INFO - 🚀 Script started
+2026-05-06 15:36:55,818 - INFO - Data loaded: (380, 7)
+2026-05-06 15:36:55,879 - INFO - Duplicates found: 16
+2026-05-06 15:36:55,881 - INFO - After removing duplicates: (364, 7)
+2026-05-06 15:36:55,882 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 15:36:55,891 - INFO - missing_report
+2026-05-06 15:36:55,893 - INFO - Location prefix removed successfully
+2026-05-06 15:36:55,894 - INFO - Location split into city and district
+2026-05-06 15:36:55,896 - INFO - City and district normalized (lower + strip)
+2026-05-06 15:36:55,897 - INFO - City names standardized using mapping
+2026-05-06 15:36:55,898 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 15:36:55,898 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 15:36:55,927 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 15:36:55,929 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 15:36:55,929 - INFO - Outliers count: 28
+2026-05-06 15:36:55,929 - INFO - Outliers ratio: 7.69%
+2026-05-06 15:36:55,936 - INFO - Capping applied on price column
+2026-05-06 15:36:55,938 - INFO - Original max price: 7680000
+2026-05-06 15:36:55,939 - INFO - Capped max price: 3280000
+2026-05-06 15:36:55,939 - INFO - Original min price: 190000
+2026-05-06 15:36:55,941 - INFO - Capped min price: 190000
+2026-05-06 15:36:55,942 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 15:36:55,943 - INFO - Price median (before): 1100000.0
+2026-05-06 15:36:55,944 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 15:36:55,944 - INFO - Price median (after): 1100000.0
+2026-05-06 15:36:55,963 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-06 15:39:50,744 - INFO - 🚀 Script started
+2026-05-06 15:39:50,756 - INFO - Data loaded: (380, 7)
+2026-05-06 15:39:50,783 - INFO - Duplicates found: 16
+2026-05-06 15:39:50,784 - INFO - After removing duplicates: (364, 7)
+2026-05-06 15:39:50,785 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 15:39:50,790 - INFO - missing_report
+2026-05-06 15:39:50,792 - INFO - Location prefix removed successfully
+2026-05-06 15:39:50,793 - INFO - Location split into city and district
+2026-05-06 15:39:50,794 - INFO - City and district normalized (lower + strip)
+2026-05-06 15:39:50,795 - INFO - City names standardized using mapping
+2026-05-06 15:39:50,796 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 15:39:50,797 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 15:39:50,811 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 15:39:50,811 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 15:39:50,812 - INFO - Outliers count: 28
+2026-05-06 15:39:50,812 - INFO - Outliers ratio: 7.69%
+2026-05-06 15:39:50,813 - INFO - Capping applied on price column
+2026-05-06 15:39:50,814 - INFO - Original max price: 7680000
+2026-05-06 15:39:50,814 - INFO - Capped max price: 3280000
+2026-05-06 15:39:50,814 - INFO - Original min price: 190000
+2026-05-06 15:39:50,814 - INFO - Capped min price: 190000
+2026-05-06 15:39:50,815 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 15:39:50,815 - INFO - Price median (before): 1100000.0
+2026-05-06 15:39:50,815 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 15:39:50,816 - INFO - Price median (after): 1100000.0
+2026-05-06 15:39:50,828 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-06 15:46:48,223 - INFO - 🚀 Script started
+2026-05-06 15:46:48,231 - INFO - Data loaded: (380, 7)
+2026-05-06 15:46:48,257 - INFO - Duplicates found: 16
+2026-05-06 15:46:48,259 - INFO - After removing duplicates: (364, 7)
+2026-05-06 15:46:48,260 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 15:46:48,268 - INFO - missing_report
+2026-05-06 15:46:48,270 - INFO - Location prefix removed successfully
+2026-05-06 15:46:48,272 - INFO - Location split into city and district
+2026-05-06 15:46:48,273 - INFO - City and district normalized (lower + strip)
+2026-05-06 15:46:48,273 - INFO - City names standardized using mapping
+2026-05-06 15:46:48,274 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 15:46:48,275 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 15:46:48,291 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 15:46:48,292 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 15:46:48,292 - INFO - Outliers count: 28
+2026-05-06 15:46:48,292 - INFO - Outliers ratio: 7.69%
+2026-05-06 15:46:48,294 - INFO - Capping applied on price column
+2026-05-06 15:46:48,294 - INFO - Original max price: 7680000
+2026-05-06 15:46:48,295 - INFO - Capped max price: 3280000
+2026-05-06 15:46:48,295 - INFO - Original min price: 190000
+2026-05-06 15:46:48,295 - INFO - Capped min price: 190000
+2026-05-06 15:46:48,296 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 15:46:48,296 - INFO - Price median (before): 1100000.0
+2026-05-06 15:46:48,297 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 15:46:48,297 - INFO - Price median (after): 1100000.0
+2026-05-06 15:46:48,311 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-06 15:51:00,269 - INFO - 🚀 Script started
+2026-05-06 15:51:00,278 - INFO - Data loaded: (380, 7)
+2026-05-06 15:51:00,308 - INFO - Duplicates found: 16
+2026-05-06 15:51:00,311 - INFO - After removing duplicates: (364, 7)
+2026-05-06 15:51:00,312 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 15:51:00,318 - INFO - missing_report
+2026-05-06 15:51:00,319 - INFO - Location prefix removed successfully
+2026-05-06 15:51:00,325 - INFO - Location split into city and district
+2026-05-06 15:51:00,327 - INFO - City and district normalized (lower + strip)
+2026-05-06 15:51:00,328 - INFO - City names standardized using mapping
+2026-05-06 15:51:00,328 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 15:51:00,333 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 15:51:00,361 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 15:51:00,362 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 15:51:00,363 - INFO - Outliers count: 28
+2026-05-06 15:51:00,363 - INFO - Outliers ratio: 7.69%
+2026-05-06 15:51:00,365 - INFO - Capping applied on price column
+2026-05-06 15:51:00,366 - INFO - Original max price: 7680000
+2026-05-06 15:51:00,366 - INFO - Capped max price: 3280000
+2026-05-06 15:51:00,368 - INFO - Original min price: 190000
+2026-05-06 15:51:00,369 - INFO - Capped min price: 190000
+2026-05-06 15:51:00,370 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 15:51:00,371 - INFO - Price median (before): 1100000.0
+2026-05-06 15:51:00,371 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 15:51:00,372 - INFO - Price median (after): 1100000.0
+2026-05-06 15:51:00,398 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-06 15:57:32,347 - INFO - 🚀 Script started
+2026-05-06 15:57:32,357 - INFO - Data loaded: (380, 7)
+2026-05-06 15:57:32,395 - INFO - Duplicates found: 16
+2026-05-06 15:57:32,398 - INFO - After removing duplicates: (364, 7)
+2026-05-06 15:57:32,399 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-06 15:57:32,405 - INFO - missing_report
+2026-05-06 15:57:32,407 - INFO - Location prefix removed successfully
+2026-05-06 15:57:32,409 - INFO - Location split into city and district
+2026-05-06 15:57:32,410 - INFO - City and district normalized (lower + strip)
+2026-05-06 15:57:32,411 - INFO - City names standardized using mapping
+2026-05-06 15:57:32,411 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-06 15:57:32,412 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-06 15:57:32,430 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-06 15:57:32,431 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-06 15:57:32,431 - INFO - Outliers count: 28
+2026-05-06 15:57:32,431 - INFO - Outliers ratio: 7.69%
+2026-05-06 15:57:32,432 - INFO - Capping applied on price column
+2026-05-06 15:57:32,433 - INFO - Original max price: 7680000
+2026-05-06 15:57:32,433 - INFO - Capped max price: 3280000
+2026-05-06 15:57:32,433 - INFO - Original min price: 190000
+2026-05-06 15:57:32,433 - INFO - Capped min price: 190000
+2026-05-06 15:57:32,434 - INFO - Price mean (before): 1417962.3626373627
+2026-05-06 15:57:32,434 - INFO - Price median (before): 1100000.0
+2026-05-06 15:57:32,435 - INFO - Price mean (after): 1338083.2417582418
+2026-05-06 15:57:32,435 - INFO - Price median (after): 1100000.0
+2026-05-06 15:57:32,451 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 08:32:36,107 - INFO - 🚀 Script started
+2026-05-07 08:32:36,120 - INFO - Data loaded: (380, 7)
+2026-05-07 08:32:36,159 - INFO - Duplicates found: 16
+2026-05-07 08:32:36,162 - INFO - After removing duplicates: (364, 7)
+2026-05-07 08:32:36,163 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 08:32:36,170 - INFO - missing_report
+2026-05-07 08:32:36,173 - INFO - Location prefix removed successfully
+2026-05-07 08:32:36,175 - INFO - Location split into city and district
+2026-05-07 08:32:36,177 - INFO - City and district normalized (lower + strip)
+2026-05-07 08:32:36,177 - INFO - City names standardized using mapping
+2026-05-07 08:32:36,178 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 08:32:36,179 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 08:32:36,199 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 08:32:36,199 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 08:32:36,200 - INFO - Outliers count: 28
+2026-05-07 08:32:36,200 - INFO - Outliers ratio: 7.69%
+2026-05-07 08:32:36,202 - INFO - Capping applied on price column
+2026-05-07 08:32:36,203 - INFO - Original max price: 7680000
+2026-05-07 08:32:36,203 - INFO - Capped max price: 3280000
+2026-05-07 08:32:36,203 - INFO - Original min price: 190000
+2026-05-07 08:32:36,204 - INFO - Capped min price: 190000
+2026-05-07 08:32:36,204 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 08:32:36,205 - INFO - Price median (before): 1100000.0
+2026-05-07 08:32:36,205 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 08:32:36,206 - INFO - Price median (after): 1100000.0
+2026-05-07 08:32:36,221 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 08:57:39,428 - INFO - 🚀 Script started
+2026-05-07 08:57:39,444 - INFO - Data loaded: (380, 7)
+2026-05-07 08:57:39,490 - INFO - Duplicates found: 16
+2026-05-07 08:57:39,493 - INFO - After removing duplicates: (364, 7)
+2026-05-07 08:57:39,494 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 08:57:39,502 - INFO - missing_report
+2026-05-07 08:57:39,504 - INFO - Location prefix removed successfully
+2026-05-07 08:57:39,505 - INFO - Location split into city and district
+2026-05-07 08:57:39,506 - INFO - City and district normalized (lower + strip)
+2026-05-07 08:57:39,507 - INFO - City names standardized using mapping
+2026-05-07 08:57:39,508 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 08:57:39,509 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 08:57:39,533 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 08:57:39,533 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 08:57:39,533 - INFO - Outliers count: 28
+2026-05-07 08:57:39,534 - INFO - Outliers ratio: 7.69%
+2026-05-07 08:57:39,536 - INFO - Capping applied on price column
+2026-05-07 08:57:39,536 - INFO - Original max price: 7680000
+2026-05-07 08:57:39,537 - INFO - Capped max price: 3280000
+2026-05-07 08:57:39,537 - INFO - Original min price: 190000
+2026-05-07 08:57:39,538 - INFO - Capped min price: 190000
+2026-05-07 08:57:39,538 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 08:57:39,539 - INFO - Price median (before): 1100000.0
+2026-05-07 08:57:39,540 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 08:57:39,540 - INFO - Price median (after): 1100000.0
+2026-05-07 08:57:39,559 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 08:58:52,129 - INFO - 🚀 Script started
+2026-05-07 08:58:52,135 - INFO - Data loaded: (380, 7)
+2026-05-07 08:58:52,154 - INFO - Duplicates found: 16
+2026-05-07 08:58:52,155 - INFO - After removing duplicates: (364, 7)
+2026-05-07 08:58:52,156 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 08:58:52,160 - INFO - missing_report
+2026-05-07 08:58:52,161 - INFO - Location prefix removed successfully
+2026-05-07 08:58:52,162 - INFO - Location split into city and district
+2026-05-07 08:58:52,163 - INFO - City and district normalized (lower + strip)
+2026-05-07 08:58:52,163 - INFO - City names standardized using mapping
+2026-05-07 08:58:52,164 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 08:58:52,165 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 08:58:52,176 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 08:58:52,177 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 08:58:52,177 - INFO - Outliers count: 28
+2026-05-07 08:58:52,177 - INFO - Outliers ratio: 7.69%
+2026-05-07 08:58:52,178 - INFO - Capping applied on price column
+2026-05-07 08:58:52,179 - INFO - Original max price: 7680000
+2026-05-07 08:58:52,179 - INFO - Capped max price: 3280000
+2026-05-07 08:58:52,179 - INFO - Original min price: 190000
+2026-05-07 08:58:52,180 - INFO - Capped min price: 190000
+2026-05-07 08:58:52,180 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 08:58:52,181 - INFO - Price median (before): 1100000.0
+2026-05-07 08:58:52,181 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 08:58:52,181 - INFO - Price median (after): 1100000.0
+2026-05-07 08:58:52,193 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 09:02:01,174 - INFO - 🚀 Script started
+2026-05-07 09:02:01,183 - INFO - Data loaded: (380, 7)
+2026-05-07 09:02:01,210 - INFO - Duplicates found: 16
+2026-05-07 09:02:01,212 - INFO - After removing duplicates: (364, 7)
+2026-05-07 09:02:01,213 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 09:02:01,222 - INFO - missing_report
+2026-05-07 09:02:01,227 - INFO - Location prefix removed successfully
+2026-05-07 09:02:01,229 - INFO - Location split into city and district
+2026-05-07 09:02:01,232 - INFO - City and district normalized (lower + strip)
+2026-05-07 09:02:01,233 - INFO - City names standardized using mapping
+2026-05-07 09:02:01,234 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 09:02:01,235 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 09:02:01,257 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 09:02:01,257 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 09:02:01,258 - INFO - Outliers count: 28
+2026-05-07 09:02:01,258 - INFO - Outliers ratio: 7.69%
+2026-05-07 09:02:01,260 - INFO - Capping applied on price column
+2026-05-07 09:02:01,260 - INFO - Original max price: 7680000
+2026-05-07 09:02:01,260 - INFO - Capped max price: 3280000
+2026-05-07 09:02:01,261 - INFO - Original min price: 190000
+2026-05-07 09:02:01,261 - INFO - Capped min price: 190000
+2026-05-07 09:02:01,262 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 09:02:01,262 - INFO - Price median (before): 1100000.0
+2026-05-07 09:02:01,263 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 09:02:01,264 - INFO - Price median (after): 1100000.0
+2026-05-07 09:02:01,282 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 09:17:35,536 - INFO - 🚀 Script started
+2026-05-07 09:17:35,549 - INFO - Data loaded: (380, 7)
+2026-05-07 09:17:35,595 - INFO - Duplicates found: 16
+2026-05-07 09:17:35,597 - INFO - After removing duplicates: (364, 7)
+2026-05-07 09:17:35,598 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 09:17:35,606 - INFO - missing_report
+2026-05-07 09:17:35,608 - INFO - Location prefix removed successfully
+2026-05-07 09:17:35,609 - INFO - Location split into city and district
+2026-05-07 09:17:35,611 - INFO - City and district normalized (lower + strip)
+2026-05-07 09:17:35,611 - INFO - City names standardized using mapping
+2026-05-07 09:17:35,612 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 09:17:35,613 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 09:17:35,630 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 09:17:35,630 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 09:17:35,631 - INFO - Outliers count: 28
+2026-05-07 09:17:35,631 - INFO - Outliers ratio: 7.69%
+2026-05-07 09:17:35,632 - INFO - Capping applied on price column
+2026-05-07 09:17:35,633 - INFO - Original max price: 7680000
+2026-05-07 09:17:35,633 - INFO - Capped max price: 3280000
+2026-05-07 09:17:35,634 - INFO - Original min price: 190000
+2026-05-07 09:17:35,634 - INFO - Capped min price: 190000
+2026-05-07 09:17:35,634 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 09:17:35,641 - INFO - Price median (before): 1100000.0
+2026-05-07 09:17:35,642 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 09:17:35,642 - INFO - Price median (after): 1100000.0
+2026-05-07 09:17:35,661 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 09:22:33,697 - INFO - 🚀 Script started
+2026-05-07 09:22:33,703 - INFO - Data loaded: (380, 7)
+2026-05-07 09:22:33,731 - INFO - Duplicates found: 16
+2026-05-07 09:22:33,732 - INFO - After removing duplicates: (364, 7)
+2026-05-07 09:22:33,733 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 09:22:33,740 - INFO - missing_report
+2026-05-07 09:22:33,742 - INFO - Location prefix removed successfully
+2026-05-07 09:22:33,744 - INFO - Location split into city and district
+2026-05-07 09:22:33,746 - INFO - City and district normalized (lower + strip)
+2026-05-07 09:22:33,747 - INFO - City names standardized using mapping
+2026-05-07 09:22:33,748 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 09:22:33,749 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 09:22:33,768 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 09:22:33,768 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 09:22:33,769 - INFO - Outliers count: 28
+2026-05-07 09:22:33,769 - INFO - Outliers ratio: 7.69%
+2026-05-07 09:22:33,772 - INFO - Capping applied on price column
+2026-05-07 09:22:33,772 - INFO - Original max price: 7680000
+2026-05-07 09:22:33,773 - INFO - Capped max price: 3280000
+2026-05-07 09:22:33,773 - INFO - Original min price: 190000
+2026-05-07 09:22:33,773 - INFO - Capped min price: 190000
+2026-05-07 09:22:33,774 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 09:22:33,774 - INFO - Price median (before): 1100000.0
+2026-05-07 09:22:33,775 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 09:22:33,775 - INFO - Price median (after): 1100000.0
+2026-05-07 09:22:33,793 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 10:00:01,065 - INFO - 🚀 Script started
+2026-05-07 10:00:01,072 - INFO - Data loaded: (380, 7)
+2026-05-07 10:00:01,105 - INFO - Duplicates found: 16
+2026-05-07 10:00:01,107 - INFO - After removing duplicates: (364, 7)
+2026-05-07 10:00:01,108 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 10:00:01,113 - INFO - missing_report
+2026-05-07 10:00:01,117 - INFO - Location prefix removed successfully
+2026-05-07 10:00:01,118 - INFO - Location split into city and district
+2026-05-07 10:00:01,120 - INFO - City and district normalized (lower + strip)
+2026-05-07 10:00:01,122 - INFO - City names standardized using mapping
+2026-05-07 10:00:01,122 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 10:00:01,123 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 10:00:01,151 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 10:00:01,152 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 10:00:01,152 - INFO - Outliers count: 28
+2026-05-07 10:00:01,152 - INFO - Outliers ratio: 7.69%
+2026-05-07 10:00:01,154 - INFO - Capping applied on price column
+2026-05-07 10:00:01,155 - INFO - Original max price: 7680000
+2026-05-07 10:00:01,155 - INFO - Capped max price: 3280000
+2026-05-07 10:00:01,155 - INFO - Original min price: 190000
+2026-05-07 10:00:01,156 - INFO - Capped min price: 190000
+2026-05-07 10:00:01,156 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 10:00:01,156 - INFO - Price median (before): 1100000.0
+2026-05-07 10:00:01,157 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 10:00:01,158 - INFO - Price median (after): 1100000.0
+2026-05-07 10:00:01,191 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 10:06:32,581 - INFO - 🚀 Script started
+2026-05-07 10:06:32,588 - INFO - Data loaded: (380, 7)
+2026-05-07 10:06:32,610 - INFO - Duplicates found: 16
+2026-05-07 10:06:32,612 - INFO - After removing duplicates: (364, 7)
+2026-05-07 10:06:32,612 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 10:06:32,617 - INFO - missing_report
+2026-05-07 10:06:32,619 - INFO - Location prefix removed successfully
+2026-05-07 10:06:32,620 - INFO - Location split into city and district
+2026-05-07 10:06:32,621 - INFO - City and district normalized (lower + strip)
+2026-05-07 10:06:32,621 - INFO - City names standardized using mapping
+2026-05-07 10:06:32,622 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 10:06:32,622 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 10:06:32,635 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 10:06:32,635 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 10:06:32,636 - INFO - Outliers count: 28
+2026-05-07 10:06:32,636 - INFO - Outliers ratio: 7.69%
+2026-05-07 10:06:32,637 - INFO - Capping applied on price column
+2026-05-07 10:06:32,638 - INFO - Original max price: 7680000
+2026-05-07 10:06:32,638 - INFO - Capped max price: 3280000
+2026-05-07 10:06:32,638 - INFO - Original min price: 190000
+2026-05-07 10:06:32,638 - INFO - Capped min price: 190000
+2026-05-07 10:06:32,639 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 10:06:32,639 - INFO - Price median (before): 1100000.0
+2026-05-07 10:06:32,639 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 10:06:32,640 - INFO - Price median (after): 1100000.0
+2026-05-07 10:06:32,654 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 10:12:37,430 - INFO - 🚀 Script started
+2026-05-07 10:12:37,438 - INFO - Data loaded: (380, 7)
+2026-05-07 10:12:37,480 - INFO - Duplicates found: 16
+2026-05-07 10:12:37,482 - INFO - After removing duplicates: (364, 7)
+2026-05-07 10:12:37,483 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 10:12:37,496 - INFO - missing_report
+2026-05-07 10:12:37,499 - INFO - Location prefix removed successfully
+2026-05-07 10:12:37,502 - INFO - Location split into city and district
+2026-05-07 10:12:37,503 - INFO - City and district normalized (lower + strip)
+2026-05-07 10:12:37,503 - INFO - City names standardized using mapping
+2026-05-07 10:12:37,504 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 10:12:37,505 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 10:12:37,525 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 10:12:37,525 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 10:12:37,526 - INFO - Outliers count: 28
+2026-05-07 10:12:37,526 - INFO - Outliers ratio: 7.69%
+2026-05-07 10:12:37,529 - INFO - Capping applied on price column
+2026-05-07 10:12:37,529 - INFO - Original max price: 7680000
+2026-05-07 10:12:37,530 - INFO - Capped max price: 3280000
+2026-05-07 10:12:37,530 - INFO - Original min price: 190000
+2026-05-07 10:12:37,531 - INFO - Capped min price: 190000
+2026-05-07 10:12:37,531 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 10:12:37,532 - INFO - Price median (before): 1100000.0
+2026-05-07 10:12:37,532 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 10:12:37,533 - INFO - Price median (after): 1100000.0
+2026-05-07 10:12:37,550 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 10:31:43,188 - INFO - 🚀 Script started
+2026-05-07 10:31:43,203 - INFO - Data loaded: (380, 7)
+2026-05-07 10:31:43,258 - INFO - Duplicates found: 16
+2026-05-07 10:31:43,260 - INFO - After removing duplicates: (364, 7)
+2026-05-07 10:31:43,261 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 10:31:43,269 - INFO - missing_report
+2026-05-07 10:31:43,271 - INFO - Location prefix removed successfully
+2026-05-07 10:31:43,274 - INFO - Location split into city and district
+2026-05-07 10:31:43,277 - INFO - City and district normalized (lower + strip)
+2026-05-07 10:31:43,277 - INFO - City names standardized using mapping
+2026-05-07 10:31:43,280 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 10:31:43,281 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 10:31:43,304 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 10:31:43,304 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 10:31:43,305 - INFO - Outliers count: 28
+2026-05-07 10:31:43,305 - INFO - Outliers ratio: 7.69%
+2026-05-07 10:31:43,308 - INFO - Capping applied on price column
+2026-05-07 10:31:43,309 - INFO - Original max price: 7680000
+2026-05-07 10:31:43,310 - INFO - Capped max price: 3280000
+2026-05-07 10:31:43,311 - INFO - Original min price: 190000
+2026-05-07 10:31:43,312 - INFO - Capped min price: 190000
+2026-05-07 10:31:43,312 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 10:31:43,313 - INFO - Price median (before): 1100000.0
+2026-05-07 10:31:43,314 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 10:31:43,315 - INFO - Price median (after): 1100000.0
+2026-05-07 10:31:43,331 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 10:42:22,077 - INFO - 🚀 Script started
+2026-05-07 10:42:22,087 - INFO - Data loaded: (380, 7)
+2026-05-07 10:42:22,126 - INFO - Duplicates found: 16
+2026-05-07 10:42:22,128 - INFO - After removing duplicates: (364, 7)
+2026-05-07 10:42:22,129 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 10:42:22,135 - INFO - missing_report
+2026-05-07 10:42:22,137 - INFO - Location prefix removed successfully
+2026-05-07 10:42:22,138 - INFO - Location split into city and district
+2026-05-07 10:42:22,139 - INFO - City and district normalized (lower + strip)
+2026-05-07 10:42:22,140 - INFO - City names standardized using mapping
+2026-05-07 10:42:22,141 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 10:42:22,142 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 10:42:22,159 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 10:42:22,159 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 10:42:22,160 - INFO - Outliers count: 28
+2026-05-07 10:42:22,160 - INFO - Outliers ratio: 7.69%
+2026-05-07 10:42:22,162 - INFO - Capping applied on price column
+2026-05-07 10:42:22,162 - INFO - Original max price: 7680000
+2026-05-07 10:42:22,162 - INFO - Capped max price: 3280000
+2026-05-07 10:42:22,163 - INFO - Original min price: 190000
+2026-05-07 10:42:22,163 - INFO - Capped min price: 190000
+2026-05-07 10:42:22,163 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 10:42:22,164 - INFO - Price median (before): 1100000.0
+2026-05-07 10:42:22,164 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 10:42:22,164 - INFO - Price median (after): 1100000.0
+2026-05-07 10:42:22,178 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 11:33:53,728 - INFO - 🚀 Script started
+2026-05-07 11:33:53,738 - INFO - Data loaded: (380, 7)
+2026-05-07 11:33:53,770 - INFO - Duplicates found: 16
+2026-05-07 11:33:53,776 - INFO - After removing duplicates: (364, 7)
+2026-05-07 11:33:53,777 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 11:33:53,782 - INFO - missing_report
+2026-05-07 11:33:53,784 - INFO - Location prefix removed successfully
+2026-05-07 11:33:53,785 - INFO - Location split into city and district
+2026-05-07 11:33:53,786 - INFO - City and district normalized (lower + strip)
+2026-05-07 11:33:53,787 - INFO - City names standardized using mapping
+2026-05-07 11:33:53,787 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 11:33:53,788 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 11:33:53,803 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 11:33:53,803 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 11:33:53,803 - INFO - Outliers count: 28
+2026-05-07 11:33:53,804 - INFO - Outliers ratio: 7.69%
+2026-05-07 11:33:53,805 - INFO - Capping applied on price column
+2026-05-07 11:33:53,805 - INFO - Original max price: 7680000
+2026-05-07 11:33:53,806 - INFO - Capped max price: 3280000
+2026-05-07 11:33:53,806 - INFO - Original min price: 190000
+2026-05-07 11:33:53,806 - INFO - Capped min price: 190000
+2026-05-07 11:33:53,807 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 11:33:53,807 - INFO - Price median (before): 1100000.0
+2026-05-07 11:33:53,808 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 11:33:53,808 - INFO - Price median (after): 1100000.0
+2026-05-07 11:33:53,826 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 11:58:12,398 - INFO - 🚀 Script started
+2026-05-07 11:58:12,408 - INFO - Data loaded: (380, 7)
+2026-05-07 11:58:12,444 - INFO - Duplicates found: 16
+2026-05-07 11:58:12,447 - INFO - After removing duplicates: (364, 7)
+2026-05-07 11:58:12,448 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 11:58:12,453 - INFO - missing_report
+2026-05-07 11:58:12,455 - INFO - Location prefix removed successfully
+2026-05-07 11:58:12,457 - INFO - Location split into city and district
+2026-05-07 11:58:12,458 - INFO - City and district normalized (lower + strip)
+2026-05-07 11:58:12,459 - INFO - City names standardized using mapping
+2026-05-07 11:58:12,459 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 11:58:12,460 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 11:58:12,481 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 11:58:12,482 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 11:58:12,482 - INFO - Outliers count: 28
+2026-05-07 11:58:12,483 - INFO - Outliers ratio: 7.69%
+2026-05-07 11:58:12,485 - INFO - Capping applied on price column
+2026-05-07 11:58:12,485 - INFO - Original max price: 7680000
+2026-05-07 11:58:12,486 - INFO - Capped max price: 3280000
+2026-05-07 11:58:12,486 - INFO - Original min price: 190000
+2026-05-07 11:58:12,487 - INFO - Capped min price: 190000
+2026-05-07 11:58:12,487 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 11:58:12,488 - INFO - Price median (before): 1100000.0
+2026-05-07 11:58:12,488 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 11:58:12,489 - INFO - Price median (after): 1100000.0
+2026-05-07 11:58:12,504 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 13:45:18,033 - INFO - 🚀 Script started
+2026-05-07 13:45:18,042 - INFO - Data loaded: (380, 7)
+2026-05-07 13:45:18,075 - INFO - Duplicates found: 16
+2026-05-07 13:45:18,078 - INFO - After removing duplicates: (364, 7)
+2026-05-07 13:45:18,079 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 13:45:18,085 - INFO - missing_report
+2026-05-07 13:45:18,087 - INFO - Location prefix removed successfully
+2026-05-07 13:45:18,088 - INFO - Location split into city and district
+2026-05-07 13:45:18,089 - INFO - City and district normalized (lower + strip)
+2026-05-07 13:45:18,090 - INFO - City names standardized using mapping
+2026-05-07 13:45:18,091 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 13:45:18,092 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 13:45:18,111 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 13:45:18,111 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 13:45:18,111 - INFO - Outliers count: 28
+2026-05-07 13:45:18,112 - INFO - Outliers ratio: 7.69%
+2026-05-07 13:45:18,113 - INFO - Capping applied on price column
+2026-05-07 13:45:18,114 - INFO - Original max price: 7680000
+2026-05-07 13:45:18,114 - INFO - Capped max price: 3280000
+2026-05-07 13:45:18,115 - INFO - Original min price: 190000
+2026-05-07 13:45:18,115 - INFO - Capped min price: 190000
+2026-05-07 13:45:18,115 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 13:45:18,116 - INFO - Price median (before): 1100000.0
+2026-05-07 13:45:18,116 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 13:45:18,116 - INFO - Price median (after): 1100000.0
+2026-05-07 13:45:18,131 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 13:46:30,111 - INFO - 🚀 Script started
+2026-05-07 13:46:30,120 - INFO - Data loaded: (380, 7)
+2026-05-07 13:46:30,151 - INFO - Duplicates found: 16
+2026-05-07 13:46:30,153 - INFO - After removing duplicates: (364, 7)
+2026-05-07 13:46:30,154 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 13:46:30,161 - INFO - missing_report
+2026-05-07 13:46:30,163 - INFO - Location prefix removed successfully
+2026-05-07 13:46:30,164 - INFO - Location split into city and district
+2026-05-07 13:46:30,166 - INFO - City and district normalized (lower + strip)
+2026-05-07 13:46:30,167 - INFO - City names standardized using mapping
+2026-05-07 13:46:30,168 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 13:46:30,169 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 13:46:30,185 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 13:46:30,185 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 13:46:30,186 - INFO - Outliers count: 28
+2026-05-07 13:46:30,186 - INFO - Outliers ratio: 7.69%
+2026-05-07 13:46:30,189 - INFO - Capping applied on price column
+2026-05-07 13:46:30,189 - INFO - Original max price: 7680000
+2026-05-07 13:46:30,190 - INFO - Capped max price: 3280000
+2026-05-07 13:46:30,190 - INFO - Original min price: 190000
+2026-05-07 13:46:30,190 - INFO - Capped min price: 190000
+2026-05-07 13:46:30,191 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 13:46:30,191 - INFO - Price median (before): 1100000.0
+2026-05-07 13:46:30,191 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 13:46:30,191 - INFO - Price median (after): 1100000.0
+2026-05-07 13:46:30,204 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 13:52:20,031 - INFO - 🚀 Script started
+2026-05-07 13:52:20,047 - INFO - Data loaded: (380, 7)
+2026-05-07 13:52:20,073 - INFO - Duplicates found: 16
+2026-05-07 13:52:20,075 - INFO - After removing duplicates: (364, 7)
+2026-05-07 13:52:20,076 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 13:52:20,082 - INFO - missing_report
+2026-05-07 13:52:20,084 - INFO - Location prefix removed successfully
+2026-05-07 13:52:20,085 - INFO - Location split into city and district
+2026-05-07 13:52:20,086 - INFO - City and district normalized (lower + strip)
+2026-05-07 13:52:20,087 - INFO - City names standardized using mapping
+2026-05-07 13:52:20,088 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 13:52:20,089 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 13:52:20,110 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 13:52:20,110 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 13:52:20,111 - INFO - Outliers count: 28
+2026-05-07 13:52:20,111 - INFO - Outliers ratio: 7.69%
+2026-05-07 13:52:20,113 - INFO - Capping applied on price column
+2026-05-07 13:52:20,116 - INFO - Original max price: 7680000
+2026-05-07 13:52:20,117 - INFO - Capped max price: 3280000
+2026-05-07 13:52:20,117 - INFO - Original min price: 190000
+2026-05-07 13:52:20,118 - INFO - Capped min price: 190000
+2026-05-07 13:52:20,118 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 13:52:20,119 - INFO - Price median (before): 1100000.0
+2026-05-07 13:52:20,120 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 13:52:20,120 - INFO - Price median (after): 1100000.0
+2026-05-07 13:52:20,136 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 13:54:40,059 - INFO - 🚀 Script started
+2026-05-07 13:54:40,065 - INFO - Data loaded: (380, 7)
+2026-05-07 13:54:40,086 - INFO - Duplicates found: 16
+2026-05-07 13:54:40,087 - INFO - After removing duplicates: (364, 7)
+2026-05-07 13:54:40,088 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 13:54:40,091 - INFO - missing_report
+2026-05-07 13:54:40,093 - INFO - Location prefix removed successfully
+2026-05-07 13:54:40,094 - INFO - Location split into city and district
+2026-05-07 13:54:40,095 - INFO - City and district normalized (lower + strip)
+2026-05-07 13:54:40,096 - INFO - City names standardized using mapping
+2026-05-07 13:54:40,096 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 13:54:40,097 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 13:54:40,109 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 13:54:40,110 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 13:54:40,110 - INFO - Outliers count: 28
+2026-05-07 13:54:40,110 - INFO - Outliers ratio: 7.69%
+2026-05-07 13:54:40,111 - INFO - Capping applied on price column
+2026-05-07 13:54:40,112 - INFO - Original max price: 7680000
+2026-05-07 13:54:40,112 - INFO - Capped max price: 3280000
+2026-05-07 13:54:40,112 - INFO - Original min price: 190000
+2026-05-07 13:54:40,112 - INFO - Capped min price: 190000
+2026-05-07 13:54:40,113 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 13:54:40,113 - INFO - Price median (before): 1100000.0
+2026-05-07 13:54:40,113 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 13:54:40,114 - INFO - Price median (after): 1100000.0
+2026-05-07 13:54:40,124 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 14:08:55,668 - INFO - 🚀 Script started
+2026-05-07 14:08:55,679 - INFO - Data loaded: (380, 7)
+2026-05-07 14:08:55,719 - INFO - Duplicates found: 16
+2026-05-07 14:08:55,722 - INFO - After removing duplicates: (364, 7)
+2026-05-07 14:08:55,723 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 14:08:55,731 - INFO - missing_report
+2026-05-07 14:08:55,733 - INFO - Location prefix removed successfully
+2026-05-07 14:08:55,735 - INFO - Location split into city and district
+2026-05-07 14:08:55,736 - INFO - City and district normalized (lower + strip)
+2026-05-07 14:08:55,737 - INFO - City names standardized using mapping
+2026-05-07 14:08:55,738 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 14:08:55,738 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 14:08:55,756 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 14:08:55,757 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 14:08:55,760 - INFO - Outliers count: 28
+2026-05-07 14:08:55,760 - INFO - Outliers ratio: 7.69%
+2026-05-07 14:08:55,763 - INFO - Capping applied on price column
+2026-05-07 14:08:55,764 - INFO - Original max price: 7680000
+2026-05-07 14:08:55,765 - INFO - Capped max price: 3280000
+2026-05-07 14:08:55,766 - INFO - Original min price: 190000
+2026-05-07 14:08:55,766 - INFO - Capped min price: 190000
+2026-05-07 14:08:55,766 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 14:08:55,767 - INFO - Price median (before): 1100000.0
+2026-05-07 14:08:55,767 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 14:08:55,768 - INFO - Price median (after): 1100000.0
+2026-05-07 14:08:55,781 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 14:15:10,068 - INFO - 🚀 Script started
+2026-05-07 14:15:10,076 - INFO - Data loaded: (380, 7)
+2026-05-07 14:15:10,095 - INFO - Duplicates found: 16
+2026-05-07 14:15:10,096 - INFO - After removing duplicates: (364, 7)
+2026-05-07 14:15:10,097 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 14:15:10,102 - INFO - missing_report
+2026-05-07 14:15:10,103 - INFO - Location prefix removed successfully
+2026-05-07 14:15:10,104 - INFO - Location split into city and district
+2026-05-07 14:15:10,105 - INFO - City and district normalized (lower + strip)
+2026-05-07 14:15:10,106 - INFO - City names standardized using mapping
+2026-05-07 14:15:10,107 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 14:15:10,108 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 14:15:10,119 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 14:15:10,119 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 14:15:10,120 - INFO - Outliers count: 28
+2026-05-07 14:15:10,120 - INFO - Outliers ratio: 7.69%
+2026-05-07 14:15:10,121 - INFO - Capping applied on price column
+2026-05-07 14:15:10,122 - INFO - Original max price: 7680000
+2026-05-07 14:15:10,122 - INFO - Capped max price: 3280000
+2026-05-07 14:15:10,123 - INFO - Original min price: 190000
+2026-05-07 14:15:10,123 - INFO - Capped min price: 190000
+2026-05-07 14:15:10,124 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 14:15:10,124 - INFO - Price median (before): 1100000.0
+2026-05-07 14:15:10,125 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 14:15:10,125 - INFO - Price median (after): 1100000.0
+2026-05-07 14:15:10,139 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 14:30:54,300 - INFO - 🚀 Script started
+2026-05-07 14:30:54,317 - INFO - Data loaded: (380, 7)
+2026-05-07 14:30:54,360 - INFO - Duplicates found: 16
+2026-05-07 14:30:54,363 - INFO - After removing duplicates: (364, 7)
+2026-05-07 14:30:54,365 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 14:30:54,374 - INFO - missing_report
+2026-05-07 14:30:54,377 - INFO - Location prefix removed successfully
+2026-05-07 14:30:54,379 - INFO - Location split into city and district
+2026-05-07 14:30:54,381 - INFO - City and district normalized (lower + strip)
+2026-05-07 14:30:54,382 - INFO - City names standardized using mapping
+2026-05-07 14:30:54,383 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 14:30:54,384 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 14:30:54,400 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 14:30:54,401 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 14:30:54,401 - INFO - Outliers count: 28
+2026-05-07 14:30:54,401 - INFO - Outliers ratio: 7.69%
+2026-05-07 14:30:54,403 - INFO - Capping applied on price column
+2026-05-07 14:30:54,403 - INFO - Original max price: 7680000
+2026-05-07 14:30:54,403 - INFO - Capped max price: 3280000
+2026-05-07 14:30:54,404 - INFO - Original min price: 190000
+2026-05-07 14:30:54,404 - INFO - Capped min price: 190000
+2026-05-07 14:30:54,404 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 14:30:54,405 - INFO - Price median (before): 1100000.0
+2026-05-07 14:30:54,405 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 14:30:54,405 - INFO - Price median (after): 1100000.0
+2026-05-07 14:30:54,418 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 14:36:36,617 - INFO - 🚀 Script started
+2026-05-07 14:36:36,625 - INFO - Data loaded: (380, 7)
+2026-05-07 14:36:36,646 - INFO - Duplicates found: 16
+2026-05-07 14:36:36,648 - INFO - After removing duplicates: (364, 7)
+2026-05-07 14:36:36,649 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 14:36:36,655 - INFO - missing_report
+2026-05-07 14:36:36,661 - INFO - Location prefix removed successfully
+2026-05-07 14:36:36,662 - INFO - Location split into city and district
+2026-05-07 14:36:36,664 - INFO - City and district normalized (lower + strip)
+2026-05-07 14:36:36,665 - INFO - City names standardized using mapping
+2026-05-07 14:36:36,666 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 14:36:36,667 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 14:36:36,688 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 14:36:36,689 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 14:36:36,689 - INFO - Outliers count: 28
+2026-05-07 14:36:36,690 - INFO - Outliers ratio: 7.69%
+2026-05-07 14:36:36,691 - INFO - Capping applied on price column
+2026-05-07 14:36:36,692 - INFO - Original max price: 7680000
+2026-05-07 14:36:36,692 - INFO - Capped max price: 3280000
+2026-05-07 14:36:36,692 - INFO - Original min price: 190000
+2026-05-07 14:36:36,693 - INFO - Capped min price: 190000
+2026-05-07 14:36:36,693 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 14:36:36,694 - INFO - Price median (before): 1100000.0
+2026-05-07 14:36:36,694 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 14:36:36,694 - INFO - Price median (after): 1100000.0
+2026-05-07 14:36:36,712 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 14:57:44,559 - INFO - 🚀 Script started
+2026-05-07 14:57:44,568 - INFO - Data loaded: (380, 7)
+2026-05-07 14:57:44,592 - INFO - Duplicates found: 16
+2026-05-07 14:57:44,594 - INFO - After removing duplicates: (364, 7)
+2026-05-07 14:57:44,595 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 14:57:44,599 - INFO - missing_report
+2026-05-07 14:57:44,600 - INFO - Location prefix removed successfully
+2026-05-07 14:57:44,601 - INFO - Location split into city and district
+2026-05-07 14:57:44,602 - INFO - City and district normalized (lower + strip)
+2026-05-07 14:57:44,603 - INFO - City names standardized using mapping
+2026-05-07 14:57:44,604 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 14:57:44,604 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 14:57:44,617 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 14:57:44,618 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 14:57:44,618 - INFO - Outliers count: 28
+2026-05-07 14:57:44,618 - INFO - Outliers ratio: 7.69%
+2026-05-07 14:57:44,620 - INFO - Capping applied on price column
+2026-05-07 14:57:44,620 - INFO - Original max price: 7680000
+2026-05-07 14:57:44,621 - INFO - Capped max price: 3280000
+2026-05-07 14:57:44,621 - INFO - Original min price: 190000
+2026-05-07 14:57:44,621 - INFO - Capped min price: 190000
+2026-05-07 14:57:44,622 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 14:57:44,622 - INFO - Price median (before): 1100000.0
+2026-05-07 14:57:44,622 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 14:57:44,623 - INFO - Price median (after): 1100000.0
+2026-05-07 14:57:44,634 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 15:14:41,576 - INFO - 🚀 Script started
+2026-05-07 15:14:41,586 - INFO - Data loaded: (380, 7)
+2026-05-07 15:14:41,621 - INFO - Duplicates found: 16
+2026-05-07 15:14:41,623 - INFO - After removing duplicates: (364, 7)
+2026-05-07 15:14:41,624 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 15:14:41,634 - INFO - missing_report
+2026-05-07 15:14:41,635 - INFO - Location prefix removed successfully
+2026-05-07 15:14:41,637 - INFO - Location split into city and district
+2026-05-07 15:14:41,638 - INFO - City and district normalized (lower + strip)
+2026-05-07 15:14:41,639 - INFO - City names standardized using mapping
+2026-05-07 15:14:41,639 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 15:14:41,640 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 15:14:41,659 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 15:14:41,660 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 15:14:41,660 - INFO - Outliers count: 28
+2026-05-07 15:14:41,661 - INFO - Outliers ratio: 7.69%
+2026-05-07 15:14:41,663 - INFO - Capping applied on price column
+2026-05-07 15:14:41,664 - INFO - Original max price: 7680000
+2026-05-07 15:14:41,664 - INFO - Capped max price: 3280000
+2026-05-07 15:14:41,665 - INFO - Original min price: 190000
+2026-05-07 15:14:41,665 - INFO - Capped min price: 190000
+2026-05-07 15:14:41,666 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 15:14:41,666 - INFO - Price median (before): 1100000.0
+2026-05-07 15:14:41,666 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 15:14:41,667 - INFO - Price median (after): 1100000.0
+2026-05-07 15:14:41,684 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 15:27:22,310 - INFO - 🚀 Script started
+2026-05-07 15:27:22,321 - INFO - Data loaded: (380, 7)
+2026-05-07 15:27:22,352 - INFO - Duplicates found: 16
+2026-05-07 15:27:22,354 - INFO - After removing duplicates: (364, 7)
+2026-05-07 15:27:22,354 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 15:27:22,359 - INFO - missing_report
+2026-05-07 15:27:22,360 - INFO - Location prefix removed successfully
+2026-05-07 15:27:22,361 - INFO - Location split into city and district
+2026-05-07 15:27:22,362 - INFO - City and district normalized (lower + strip)
+2026-05-07 15:27:22,363 - INFO - City names standardized using mapping
+2026-05-07 15:27:22,363 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 15:27:22,364 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 15:27:22,379 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 15:27:22,379 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 15:27:22,380 - INFO - Outliers count: 28
+2026-05-07 15:27:22,380 - INFO - Outliers ratio: 7.69%
+2026-05-07 15:27:22,381 - INFO - Capping applied on price column
+2026-05-07 15:27:22,382 - INFO - Original max price: 7680000
+2026-05-07 15:27:22,382 - INFO - Capped max price: 3280000
+2026-05-07 15:27:22,383 - INFO - Original min price: 190000
+2026-05-07 15:27:22,383 - INFO - Capped min price: 190000
+2026-05-07 15:27:22,383 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 15:27:22,384 - INFO - Price median (before): 1100000.0
+2026-05-07 15:27:22,384 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 15:27:22,384 - INFO - Price median (after): 1100000.0
+2026-05-07 15:27:22,396 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 15:41:34,676 - INFO - 🚀 Script started
+2026-05-07 15:41:34,685 - INFO - Data loaded: (380, 7)
+2026-05-07 15:41:34,724 - INFO - Duplicates found: 16
+2026-05-07 15:41:34,726 - INFO - After removing duplicates: (364, 7)
+2026-05-07 15:41:34,726 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 15:41:34,732 - INFO - missing_report
+2026-05-07 15:41:34,734 - INFO - Location prefix removed successfully
+2026-05-07 15:41:34,736 - INFO - Location split into city and district
+2026-05-07 15:41:34,737 - INFO - City and district normalized (lower + strip)
+2026-05-07 15:41:34,738 - INFO - City names standardized using mapping
+2026-05-07 15:41:34,738 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 15:41:34,739 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 15:41:34,757 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 15:41:34,757 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 15:41:34,757 - INFO - Outliers count: 28
+2026-05-07 15:41:34,758 - INFO - Outliers ratio: 7.69%
+2026-05-07 15:41:34,759 - INFO - Capping applied on price column
+2026-05-07 15:41:34,760 - INFO - Original max price: 7680000
+2026-05-07 15:41:34,760 - INFO - Capped max price: 3280000
+2026-05-07 15:41:34,760 - INFO - Original min price: 190000
+2026-05-07 15:41:34,761 - INFO - Capped min price: 190000
+2026-05-07 15:41:34,761 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 15:41:34,762 - INFO - Price median (before): 1100000.0
+2026-05-07 15:41:34,762 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 15:41:34,762 - INFO - Price median (after): 1100000.0
+2026-05-07 15:41:34,777 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-07 15:55:07,237 - INFO - 🚀 Script started
+2026-05-07 15:55:07,249 - INFO - Data loaded: (380, 7)
+2026-05-07 15:55:07,290 - INFO - Duplicates found: 16
+2026-05-07 15:55:07,292 - INFO - After removing duplicates: (364, 7)
+2026-05-07 15:55:07,293 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-07 15:55:07,300 - INFO - missing_report
+2026-05-07 15:55:07,301 - INFO - Location prefix removed successfully
+2026-05-07 15:55:07,303 - INFO - Location split into city and district
+2026-05-07 15:55:07,304 - INFO - City and district normalized (lower + strip)
+2026-05-07 15:55:07,304 - INFO - City names standardized using mapping
+2026-05-07 15:55:07,305 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-07 15:55:07,306 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-07 15:55:07,322 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-07 15:55:07,322 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-07 15:55:07,323 - INFO - Outliers count: 28
+2026-05-07 15:55:07,323 - INFO - Outliers ratio: 7.69%
+2026-05-07 15:55:07,325 - INFO - Capping applied on price column
+2026-05-07 15:55:07,326 - INFO - Original max price: 7680000
+2026-05-07 15:55:07,326 - INFO - Capped max price: 3280000
+2026-05-07 15:55:07,326 - INFO - Original min price: 190000
+2026-05-07 15:55:07,327 - INFO - Capped min price: 190000
+2026-05-07 15:55:07,327 - INFO - Price mean (before): 1417962.3626373627
+2026-05-07 15:55:07,328 - INFO - Price median (before): 1100000.0
+2026-05-07 15:55:07,328 - INFO - Price mean (after): 1338083.2417582418
+2026-05-07 15:55:07,328 - INFO - Price median (after): 1100000.0
+2026-05-07 15:55:07,341 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-08 08:12:49,066 - INFO - 🚀 Script started
+2026-05-08 08:12:49,076 - INFO - Data loaded: (380, 7)
+2026-05-08 08:12:49,105 - INFO - Duplicates found: 16
+2026-05-08 08:12:49,107 - INFO - After removing duplicates: (364, 7)
+2026-05-08 08:12:49,108 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-08 08:12:49,112 - INFO - missing_report
+2026-05-08 08:12:49,114 - INFO - Location prefix removed successfully
+2026-05-08 08:12:49,115 - INFO - Location split into city and district
+2026-05-08 08:12:49,116 - INFO - City and district normalized (lower + strip)
+2026-05-08 08:12:49,116 - INFO - City names standardized using mapping
+2026-05-08 08:12:49,117 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-08 08:12:49,118 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-08 08:12:49,132 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-08 08:12:49,133 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-08 08:12:49,133 - INFO - Outliers count: 28
+2026-05-08 08:12:49,133 - INFO - Outliers ratio: 7.69%
+2026-05-08 08:12:49,134 - INFO - Capping applied on price column
+2026-05-08 08:12:49,135 - INFO - Original max price: 7680000
+2026-05-08 08:12:49,135 - INFO - Capped max price: 3280000
+2026-05-08 08:12:49,136 - INFO - Original min price: 190000
+2026-05-08 08:12:49,136 - INFO - Capped min price: 190000
+2026-05-08 08:12:49,136 - INFO - Price mean (before): 1417962.3626373627
+2026-05-08 08:12:49,137 - INFO - Price median (before): 1100000.0
+2026-05-08 08:12:49,137 - INFO - Price mean (after): 1338083.2417582418
+2026-05-08 08:12:49,138 - INFO - Price median (after): 1100000.0
+2026-05-08 08:12:49,148 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-08 08:21:11,791 - INFO - 🚀 Script started
+2026-05-08 08:21:11,800 - INFO - Data loaded: (380, 7)
+2026-05-08 08:21:11,826 - INFO - Duplicates found: 16
+2026-05-08 08:21:11,828 - INFO - After removing duplicates: (364, 7)
+2026-05-08 08:21:11,829 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-08 08:21:11,833 - INFO - missing_report
+2026-05-08 08:21:11,835 - INFO - Location prefix removed successfully
+2026-05-08 08:21:11,836 - INFO - Location split into city and district
+2026-05-08 08:21:11,837 - INFO - City and district normalized (lower + strip)
+2026-05-08 08:21:11,838 - INFO - City names standardized using mapping
+2026-05-08 08:21:11,839 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-08 08:21:11,839 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-08 08:21:11,852 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-08 08:21:11,852 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-08 08:21:11,853 - INFO - Outliers count: 28
+2026-05-08 08:21:11,853 - INFO - Outliers ratio: 7.69%
+2026-05-08 08:21:11,855 - INFO - Capping applied on price column
+2026-05-08 08:21:11,855 - INFO - Original max price: 7680000
+2026-05-08 08:21:11,856 - INFO - Capped max price: 3280000
+2026-05-08 08:21:11,856 - INFO - Original min price: 190000
+2026-05-08 08:21:11,857 - INFO - Capped min price: 190000
+2026-05-08 08:21:11,857 - INFO - Price mean (before): 1417962.3626373627
+2026-05-08 08:21:11,858 - INFO - Price median (before): 1100000.0
+2026-05-08 08:21:11,858 - INFO - Price mean (after): 1338083.2417582418
+2026-05-08 08:21:11,859 - INFO - Price median (after): 1100000.0
+2026-05-08 08:21:11,870 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-08 08:38:30,804 - INFO - 🚀 Script started
+2026-05-08 08:38:30,815 - INFO - Data loaded: (380, 7)
+2026-05-08 08:38:30,854 - INFO - Duplicates found: 16
+2026-05-08 08:38:30,857 - INFO - After removing duplicates: (364, 7)
+2026-05-08 08:38:30,858 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-08 08:38:30,864 - INFO - missing_report
+2026-05-08 08:38:30,866 - INFO - Location prefix removed successfully
+2026-05-08 08:38:30,867 - INFO - Location split into city and district
+2026-05-08 08:38:30,868 - INFO - City and district normalized (lower + strip)
+2026-05-08 08:38:30,869 - INFO - City names standardized using mapping
+2026-05-08 08:38:30,870 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-08 08:38:30,870 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-08 08:38:30,890 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-08 08:38:30,891 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-08 08:38:30,891 - INFO - Outliers count: 28
+2026-05-08 08:38:30,891 - INFO - Outliers ratio: 7.69%
+2026-05-08 08:38:30,893 - INFO - Capping applied on price column
+2026-05-08 08:38:30,894 - INFO - Original max price: 7680000
+2026-05-08 08:38:30,894 - INFO - Capped max price: 3280000
+2026-05-08 08:38:30,895 - INFO - Original min price: 190000
+2026-05-08 08:38:30,895 - INFO - Capped min price: 190000
+2026-05-08 08:38:30,895 - INFO - Price mean (before): 1417962.3626373627
+2026-05-08 08:38:30,896 - INFO - Price median (before): 1100000.0
+2026-05-08 08:38:30,896 - INFO - Price mean (after): 1338083.2417582418
+2026-05-08 08:38:30,896 - INFO - Price median (after): 1100000.0
+2026-05-08 08:38:30,911 - INFO - Clean data saved successfully to clean_data.csv
+2026-05-08 08:41:17,002 - INFO - 🚀 Script started
+2026-05-08 08:41:17,010 - INFO - Data loaded: (380, 7)
+2026-05-08 08:41:17,041 - INFO - Duplicates found: 16
+2026-05-08 08:41:17,043 - INFO - After removing duplicates: (364, 7)
+2026-05-08 08:41:17,044 - INFO - Prefixes (À VENDRE / VENTE / LOCATION) removed from title
+2026-05-08 08:41:17,052 - INFO - missing_report
+2026-05-08 08:41:17,054 - INFO - Location prefix removed successfully
+2026-05-08 08:41:17,056 - INFO - Location split into city and district
+2026-05-08 08:41:17,057 - INFO - City and district normalized (lower + strip)
+2026-05-08 08:41:17,057 - INFO - City names standardized using mapping
+2026-05-08 08:41:17,058 - INFO - Unique cities: <StringArray>
+[    'casablanca',          'oujda',          'rabat',        'tétouan',
+ 'sidi bouknadel',     'mohammedia',      'marrakech',       'laâyoune',
+         'saidia',           'mdiq',        'tangier',         'agadir',
+       'bouznika',   'el mansouria',    'dar bouazza',         'meknès',
+         'martil',         'temara',            'fès',        'kénitra',
+    'had soualem',     'sidi rahal',         'deroua',           'salé',
+      'bouskoura',         'asilah',      'berrechid',     'benslimane',
+     'ben guerir',      'el jadida',     'cabo negro',        'tamesna',
+      'oued laou',        'inzegan',  'ksar el-kebir',      'ain aouda',
+       'lamkansa',    'ouled teïma',         'dakhla']
+Length: 39, dtype: string
+2026-05-08 08:41:17,059 - INFO - Unique districts sample: <StringArray>
+[        'maarif',    'abdelmoumen',         'marina',       'andalous',
+  'autre secteur',         '2 mars',       'aïn diab', 'toute la ville',
+         'nassim',    'victor hugo']
+Length: 10, dtype: string
+2026-05-08 08:41:17,073 - INFO - Price Q1: 650000.0, Q3: 1702000.0, IQR: 1052000.0
+2026-05-08 08:41:17,074 - INFO - Outliers bounds → lower: -928000.0, upper: 3280000.0
+2026-05-08 08:41:17,074 - INFO - Outliers count: 28
+2026-05-08 08:41:17,075 - INFO - Outliers ratio: 7.69%
+2026-05-08 08:41:17,077 - INFO - Capping applied on price column
+2026-05-08 08:41:17,077 - INFO - Original max price: 7680000
+2026-05-08 08:41:17,078 - INFO - Capped max price: 3280000
+2026-05-08 08:41:17,078 - INFO - Original min price: 190000
+2026-05-08 08:41:17,078 - INFO - Capped min price: 190000
+2026-05-08 08:41:17,079 - INFO - Price mean (before): 1417962.3626373627
+2026-05-08 08:41:17,079 - INFO - Price median (before): 1100000.0
+2026-05-08 08:41:17,080 - INFO - Price mean (after): 1338083.2417582418
+2026-05-08 08:41:17,080 - INFO - Price median (after): 1100000.0
+2026-05-08 08:41:17,099 - INFO - Clean data saved successfully to clean_data.csv

@@ -1,14 +1,9 @@
-# ======================
-# WAREHOUSE SERVICE
-# ======================
-FROM python:3.10
+FROM python:3.11
 
 WORKDIR /app
 
-COPY . .
+COPY warehouse/ /app/
 
-RUN pip install --no-cache-dir -r requirements.txt || true
-
-RUN mkdir -p /app/logs
+RUN pip install --upgrade pip && pip install -r requirements.txt
 
 CMD ["python", "main.py"]

@@ -6,10 +6,10 @@ import os,re
 # -----------------------
 # SETUP LOGS
 # -----------------------
-os.makedirs("../logs", exist_ok=True)
+os.makedirs("/app/logs", exist_ok=True)
 
 logging.basicConfig(
-    filename="../logs/eda.log",
+    filename="/app/logs/eda.log",
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
@@ -19,7 +19,7 @@ logging.info("🚀 Script started")
 # -----------------------
 # LOAD DATA
 # -----------------------
-df = pd.read_csv("../staging/row_data.csv")
+df = pd.read_csv("/app/staging/row_data.csv")
 logging.info(f"Data loaded: {df.shape}")
 
 print(df.head())
@@ -185,5 +185,5 @@ plt.boxplot(df["price_capped"].dropna())
 plt.title("Price After Capping")
 plt.show()
 #save data clean
-df.to_csv("../staging/clean_data.csv", index=False, encoding="utf-8")
+df.to_csv("/app/staging/clean_data.csv", index=False, encoding="utf-8")
 logging.info("Clean data saved successfully to clean_data.csv")

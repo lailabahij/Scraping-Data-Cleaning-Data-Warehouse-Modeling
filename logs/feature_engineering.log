@@ -22,3 +22,15 @@
 2026-04-30 12:53:50,239 - INFO - Created feature: is_premium_city
 2026-04-30 12:53:50,239 - INFO - Final cleaning done
 2026-04-30 12:53:50,248 - INFO - File saved: features_data.csv
+2026-05-07 15:29:39,624 - INFO - \U0001f680 Script started
+2026-05-07 15:29:39,630 - INFO - Data loaded: (364, 11)
+2026-05-07 15:29:39,635 - INFO - Filtered surface > 0
+2026-05-07 15:29:39,636 - INFO - Created feature: prix_m2
+2026-05-07 15:29:39,639 - INFO - Created features: is_new, is_luxury
+2026-05-07 15:29:39,640 - INFO - Created feature: age_estime
+2026-05-07 15:29:39,642 - INFO - Created feature: type_bien
+2026-05-07 15:29:39,644 - INFO - Created feature: price_category
+2026-05-07 15:29:39,646 - INFO - Created feature: city_popularity
+2026-05-07 15:29:39,646 - INFO - Created feature: is_premium_city
+2026-05-07 15:29:39,647 - INFO - Final cleaning done
+2026-05-07 15:29:39,654 - INFO - File saved: features_data.csv
